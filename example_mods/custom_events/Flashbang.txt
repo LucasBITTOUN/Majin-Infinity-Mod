@@ -1,0 +1,3 @@
+Flashes the camera for a brief period of time
+
+Value 1: speed

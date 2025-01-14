@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Exeternal TT xeno encore.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beast_DOWN instance 10000" x="0" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10001" x="0" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10002" x="759" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10003" x="759" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10004" x="1518" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10005" x="1518" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10006" x="2277" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10007" x="2277" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10008" x="3036" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10009" x="3036" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10010" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10011" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10012" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10013" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10014" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10015" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10016" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10017" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10018" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_DOWN instance 10019" x="3795" y="0" width="759" height="1028"/>
+	<SubTexture name="Beast_LEFT instance 10000" x="4554" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10001" x="4554" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10002" x="5261" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10003" x="5261" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10004" x="5968" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10005" x="5968" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10006" x="6675" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10007" x="6675" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10008" x="7382" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10009" x="7382" y="0" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10010" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10011" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10012" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10013" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10014" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10015" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10016" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10017" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10018" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_LEFT instance 10019" x="0" y="1156" width="707" height="1156"/>
+	<SubTexture name="Beast_RIGHT instance 10000" x="707" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10001" x="707" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10002" x="1659" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10003" x="1659" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10004" x="2611" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10005" x="2611" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10006" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10007" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10008" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10009" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10010" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10011" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10012" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10013" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10014" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10015" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10016" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10017" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10018" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_RIGHT instance 10019" x="3563" y="1156" width="952" height="994"/>
+	<SubTexture name="Beast_UP instance 10000" x="4515" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10001" x="4515" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10002" x="5385" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10003" x="5385" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10004" x="6255" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10005" x="6255" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10006" x="7125" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10007" x="7125" y="1156" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10008" x="0" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10009" x="0" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10010" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10011" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10012" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10013" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10014" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10015" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10016" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10017" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10018" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Beast_UP instance 10019" x="870" y="2461" width="870" height="1305"/>
+	<SubTexture name="Symbol 18 instance 10000" x="1740" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10001" x="1740" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10002" x="2651" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10003" x="2651" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10004" x="3562" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10005" x="3562" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10006" x="4473" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10007" x="4473" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10008" x="5384" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10009" x="5384" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10010" x="6295" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10011" x="6295" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10012" x="7206" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10013" x="7206" y="2461" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10014" x="0" y="3766" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10015" x="0" y="3766" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10016" x="911" y="3766" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10017" x="911" y="3766" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10018" x="911" y="3766" width="911" height="1195"/>
+	<SubTexture name="Symbol 18 instance 10019" x="911" y="3766" width="911" height="1195"/>
+</TextureAtlas>

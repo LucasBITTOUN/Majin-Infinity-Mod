@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knuckles Soul.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knuckles Down0000" x="0" y="0" width="459" height="489"/>
+	<SubTexture name="Knuckles Idle0000" x="459" y="0" width="338" height="511" frameX="-2" frameY="-22" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0001" x="459" y="0" width="338" height="511" frameX="-2" frameY="-22" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0002" x="797" y="0" width="334" height="519" frameX="0" frameY="-14" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0003" x="797" y="0" width="334" height="519" frameX="0" frameY="-14" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0004" x="1131" y="0" width="328" height="527" frameX="-3" frameY="-7" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0005" x="1131" y="0" width="328" height="527" frameX="-3" frameY="-7" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0006" x="1459" y="0" width="328" height="533" frameX="-7" frameY="-1" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0007" x="1459" y="0" width="328" height="533" frameX="-7" frameY="-1" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0008" x="1459" y="0" width="328" height="533" frameX="-7" frameY="-1" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0009" x="0" y="533" width="332" height="533" frameX="-9" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0010" x="0" y="533" width="332" height="533" frameX="-9" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0011" x="0" y="533" width="332" height="533" frameX="-9" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0012" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0013" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0014" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0015" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0016" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0017" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0018" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Idle0019" x="332" y="533" width="333" height="533" frameX="-10" frameY="0" frameWidth="343" frameHeight="534"/>
+	<SubTexture name="Knuckles Left0000" x="665" y="533" width="438" height="518"/>
+	<SubTexture name="Knuckles Right0000" x="1103" y="533" width="441" height="532"/>
+	<SubTexture name="Knuckles Up0000" x="1544" y="533" width="366" height="670"/>
+</TextureAtlas>

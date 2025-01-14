@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flower.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flower0000" x="4" y="4" width="150" height="223" frameX="-31" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0001" x="158" y="4" width="150" height="223" frameX="-31" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0002" x="312" y="4" width="150" height="223" frameX="-30" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0003" x="466" y="4" width="150" height="223" frameX="-30" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0004" x="620" y="4" width="150" height="230" frameX="-29" frameY="-40" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0005" x="774" y="4" width="164" height="251" frameX="-25" frameY="-19" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0006" x="942" y="4" width="206" height="270" frameX="-2" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0007" x="942" y="4" width="206" height="270" frameX="-2" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0008" x="942" y="4" width="206" height="270" frameX="-2" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0009" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0010" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0011" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0012" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0013" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0014" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0015" x="1305" y="4" width="149" height="223" frameX="-24" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0016" x="1458" y="4" width="149" height="223" frameX="-24" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0017" x="1611" y="4" width="149" height="224" frameX="-25" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0018" x="1764" y="4" width="149" height="224" frameX="-25" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0019" x="1917" y="4" width="149" height="229" frameX="-26" frameY="-40" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0020" x="2070" y="4" width="165" height="250" frameX="-20" frameY="-19" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0021" x="2239" y="4" width="206" height="270" frameX="0" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0022" x="2239" y="4" width="206" height="270" frameX="0" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0023" x="2449" y="4" width="206" height="270" frameX="-1" frameY="0" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0024" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0025" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0026" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0027" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0028" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+	<SubTexture name="flower0029" x="1152" y="4" width="149" height="223" frameX="-28" frameY="-46" frameWidth="208" frameHeight="270"/>
+</TextureAtlas>

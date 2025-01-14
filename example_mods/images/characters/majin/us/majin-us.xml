@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Majin_US_MIX.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="majin finish0000" x="0" y="0" width="608" height="637"/>
+	<SubTexture name="majin finish0001" x="0" y="0" width="608" height="637"/>
+	<SubTexture name="majin finish0002" x="608" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0003" x="608" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0004" x="1180" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0005" x="1180" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0006" x="1752" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0007" x="1752" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0008" x="2324" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0009" x="2324" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0010" x="2896" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0011" x="2896" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0012" x="3468" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0013" x="3468" y="0" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0014" x="0" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0015" x="0" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0016" x="572" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0017" x="572" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0018" x="572" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin finish0019" x="572" y="637" width="572" height="603" frameX="0" frameY="0" frameWidth="608" frameHeight="637"/>
+	<SubTexture name="majin idle finish0000" x="1144" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0001" x="1144" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0002" x="1716" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0003" x="1716" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0004" x="2288" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0005" x="2288" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0006" x="2860" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0007" x="2860" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0008" x="3432" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0009" x="3432" y="637" width="572" height="603"/>
+	<SubTexture name="majin idle finish0010" x="0" y="1240" width="572" height="603"/>
+	<SubTexture name="majin idle finish0011" x="0" y="1240" width="572" height="603"/>
+	<SubTexture name="majin idle finish0012" x="0" y="1240" width="572" height="603"/>
+	<SubTexture name="majin idle finish0013" x="0" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0000" x="572" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0001" x="572" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0002" x="1144" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0003" x="1144" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0004" x="1716" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0005" x="1716" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0006" x="2288" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0007" x="2288" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0008" x="2860" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0009" x="2860" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0010" x="3432" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0011" x="3432" y="1240" width="572" height="603"/>
+	<SubTexture name="majinus down0012" x="0" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus down0013" x="0" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0000" x="572" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0001" x="572" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0002" x="1144" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0003" x="1144" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0004" x="1716" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0005" x="1716" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0006" x="2288" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0007" x="2288" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0008" x="2860" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0009" x="2860" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0010" x="3432" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0011" x="3432" y="1843" width="572" height="603"/>
+	<SubTexture name="majinus idle0012" x="0" y="2446" width="572" height="603"/>
+	<SubTexture name="majinus idle0013" x="0" y="2446" width="572" height="603"/>
+	<SubTexture name="majinus left0000" x="572" y="2446" width="578" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0001" x="572" y="2446" width="578" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0002" x="1150" y="2446" width="577" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0003" x="1150" y="2446" width="577" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0004" x="1727" y="2446" width="586" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0005" x="1727" y="2446" width="586" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0006" x="2313" y="2446" width="588" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0007" x="2313" y="2446" width="588" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0008" x="2901" y="2446" width="588" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0009" x="2901" y="2446" width="588" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0010" x="0" y="3049" width="628" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0011" x="0" y="3049" width="628" height="603" frameX="0" frameY="0" frameWidth="682" frameHeight="603"/>
+	<SubTexture name="majinus left0012" x="628" y="3049" width="682" height="603"/>
+	<SubTexture name="majinus left0013" x="628" y="3049" width="682" height="603"/>
+	<SubTexture name="majinus right0000" x="1310" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0001" x="1310" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0002" x="1882" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0003" x="1882" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0004" x="2454" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0005" x="2454" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0006" x="3026" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0007" x="3026" y="3049" width="572" height="603"/>
+	<SubTexture name="majinus right0008" x="0" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus right0009" x="0" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus right0010" x="572" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus right0011" x="572" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus right0012" x="1144" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus right0013" x="1144" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0000" x="1716" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0001" x="1716" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0002" x="2288" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0003" x="2288" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0004" x="2860" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0005" x="2860" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0006" x="3432" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0007" x="3432" y="3652" width="572" height="603"/>
+	<SubTexture name="majinus up0008" x="0" y="4255" width="572" height="603"/>
+	<SubTexture name="majinus up0009" x="0" y="4255" width="572" height="603"/>
+	<SubTexture name="majinus up0010" x="572" y="4255" width="572" height="603"/>
+	<SubTexture name="majinus up0011" x="572" y="4255" width="572" height="603"/>
+	<SubTexture name="majinus up0012" x="1144" y="4255" width="572" height="603"/>
+	<SubTexture name="majinus up0013" x="1144" y="4255" width="572" height="603"/>
+</TextureAtlas>

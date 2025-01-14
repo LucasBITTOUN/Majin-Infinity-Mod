@@ -1,0 +1,5 @@
+Value 1 = texture
+Example: notesAssets/Majin_Notes
+
+Value 2 = SplashTexture
+Example: notesAssets/endlessNoteSplashes

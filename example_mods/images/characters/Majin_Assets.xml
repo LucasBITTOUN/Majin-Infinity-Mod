@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Majin_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="majindarn0000" x="0" y="0" width="523" height="730" frameX="-76" frameY="-9" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0001" x="523" y="0" width="566" height="724" frameX="-39" frameY="-15" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0002" x="1089" y="0" width="613" height="720" frameX="0" frameY="-19" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0003" x="1702" y="0" width="584" height="731" frameX="-23" frameY="-8" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0004" x="2286" y="0" width="506" height="739" frameX="-91" frameY="0" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0005" x="2792" y="0" width="505" height="739" frameX="-90" frameY="0" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0006" x="3297" y="0" width="509" height="738" frameX="-87" frameY="-1" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0007" x="3806" y="0" width="514" height="734" frameX="-83" frameY="-4" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0008" x="3806" y="0" width="514" height="734" frameX="-83" frameY="-4" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majindarn0009" x="3806" y="0" width="514" height="734" frameX="-83" frameY="-4" frameWidth="613" frameHeight="739"/>
+	<SubTexture name="majinile0000" x="4320" y="0" width="525" height="749" frameX="0" frameY="-2" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0001" x="4845" y="0" width="529" height="737" frameX="-2" frameY="-14" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0002" x="5374" y="0" width="525" height="725" frameX="-8" frameY="-26" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0003" x="5899" y="0" width="499" height="737" frameX="-20" frameY="-14" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0004" x="6398" y="0" width="481" height="746" frameX="-25" frameY="-5" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0005" x="6879" y="0" width="484" height="749" frameX="-21" frameY="-2" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0006" x="7363" y="0" width="491" height="750" frameX="-17" frameY="-1" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0007" x="0" y="750" width="502" height="750" frameX="-11" frameY="0" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0008" x="502" y="750" width="513" height="749" frameX="-6" frameY="-1" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinile0009" x="1015" y="750" width="523" height="750" frameX="-1" frameY="-1" frameWidth="533" frameHeight="751"/>
+	<SubTexture name="majinleft0000" x="1538" y="750" width="999" height="660" frameX="-34" frameY="-230" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinleft0001" x="2537" y="750" width="955" height="678" frameX="-73" frameY="-214" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinleft0002" x="3492" y="750" width="1100" height="1100"/>
+	<SubTexture name="majinleft0003" x="4592" y="750" width="895" height="694" frameX="-127" frameY="-201" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinleft0004" x="5487" y="750" width="909" height="684" frameX="-115" frameY="-213" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinown0000" x="6396" y="750" width="610" height="621" frameX="0" frameY="-61" frameWidth="610" frameHeight="683"/>
+	<SubTexture name="majinown0001" x="7006" y="750" width="592" height="645" frameX="-7" frameY="-37" frameWidth="610" frameHeight="683"/>
+	<SubTexture name="majinown0002" x="7598" y="750" width="572" height="678" frameX="-15" frameY="-5" frameWidth="610" frameHeight="683"/>
+	<SubTexture name="majinown0003" x="0" y="1850" width="574" height="682" frameX="-15" frameY="0" frameWidth="610" frameHeight="683"/>
+	<SubTexture name="majinown0004" x="574" y="1850" width="584" height="673" frameX="-12" frameY="-8" frameWidth="610" frameHeight="683"/>
+	<SubTexture name="majinright0000" x="1158" y="1850" width="721" height="746" frameX="-235" frameY="-181" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinright0001" x="1879" y="1850" width="700" height="759" frameX="-237" frameY="-167" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinright0002" x="2579" y="1850" width="1100" height="1100"/>
+	<SubTexture name="majinright0003" x="3679" y="1850" width="673" height="779" frameX="-239" frameY="-148" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinright0004" x="4352" y="1850" width="677" height="773" frameX="-238" frameY="-153" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="majinup0000" x="5029" y="1850" width="530" height="888" frameX="-21" frameY="0" frameWidth="577" frameHeight="888"/>
+	<SubTexture name="majinup0001" x="5559" y="1850" width="541" height="872" frameX="-16" frameY="-16" frameWidth="577" frameHeight="888"/>
+	<SubTexture name="majinup0002" x="6100" y="1850" width="562" height="840" frameX="-6" frameY="-48" frameWidth="577" frameHeight="888"/>
+	<SubTexture name="majinup0003" x="6662" y="1850" width="577" height="817" frameX="0" frameY="-71" frameWidth="577" frameHeight="888"/>
+	<SubTexture name="majinup0004" x="7239" y="1850" width="575" height="821" frameX="-2" frameY="-66" frameWidth="577" frameHeight="888"/>
+</TextureAtlas>

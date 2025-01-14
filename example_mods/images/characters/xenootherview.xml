@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="xenootherview.png">
+	
+	
+	<SubTexture name="idle instance 10000" x="0" y="0" width="777" height="470" frameX="0" frameY="0" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10001" x="0" y="0" width="777" height="470" frameX="0" frameY="0" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10002" x="0" y="0" width="777" height="470" frameX="0" frameY="0" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10003" x="0" y="0" width="777" height="470" frameX="0" frameY="0" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10004" x="0" y="470" width="777" height="470" frameX="0" frameY="-2" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10005" x="0" y="470" width="777" height="470" frameX="0" frameY="-5" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10006" x="0" y="470" width="777" height="470" frameX="0" frameY="-5" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10007" x="0" y="470" width="777" height="470" frameX="0" frameY="-5" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10008" x="0" y="470" width="777" height="470" frameX="0" frameY="-5" frameWidth="777" frameHeight="475" />
+	<SubTexture name="idle instance 10009" x="0" y="470" width="777" height="470" frameX="0" frameY="-4" frameWidth="777" frameHeight="475" />
+</TextureAtlas>

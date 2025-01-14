@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "TAILS IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "TAILS IDLE"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "TAILS LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "TAILS DOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "TAILS UP"
+		},
+		{
+			"offsets": [
+				-130,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "TAILS RIGHT"
+		},
+		{
+			"offsets": [
+				6,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "spawn",
+			"loop": false,
+			"name": "TAILS SPAWM "
+		},
+		{
+			"offsets": [
+				26,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "glitch",
+			"loop": false,
+			"name": "TAILS GLITCH"
+		},
+		{
+			"offsets": [
+				50,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "kill",
+			"loop": false,
+			"name": "TAILS KILL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAJIN_TAILS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "majin-tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-130,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

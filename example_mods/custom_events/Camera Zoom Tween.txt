@@ -1,0 +1,6 @@
+Zooms in the camera to whatever value is 
+put into Value 1.
+
+I might make it so that Value 2 controls
+the speed, but I have no fucking idea how
+to code anything.

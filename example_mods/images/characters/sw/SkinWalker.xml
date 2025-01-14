@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkinWalker.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SkinDown instance 10000" x="0" y="0" width="388" height="586" frameX="-9" frameY="-7" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10001" x="0" y="0" width="388" height="586" frameX="-9" frameY="-7" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10002" x="388" y="0" width="387" height="587" frameX="-3" frameY="-6" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10003" x="388" y="0" width="387" height="587" frameX="-3" frameY="-6" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10004" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10005" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10006" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10007" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10008" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10009" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10010" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10011" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinDown instance 10012" x="775" y="0" width="385" height="593" frameX="0" frameY="0" frameWidth="397" frameHeight="593"/>
+	<SubTexture name="SkinLeft instance 10000" x="1160" y="0" width="435" height="613" frameX="0" frameY="0" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10001" x="1160" y="0" width="435" height="613" frameX="0" frameY="0" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10002" x="1595" y="0" width="413" height="611" frameX="-23" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10003" x="1595" y="0" width="413" height="611" frameX="-23" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10004" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10005" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10006" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10007" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10008" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10009" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10010" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10011" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinLeft instance 10012" x="2008" y="0" width="408" height="611" frameX="-28" frameY="-2" frameWidth="436" frameHeight="613"/>
+	<SubTexture name="SkinRight instance 10000" x="2416" y="0" width="378" height="603" frameX="-11" frameY="0" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10001" x="2416" y="0" width="378" height="603" frameX="-11" frameY="0" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10002" x="2794" y="0" width="378" height="601" frameX="-4" frameY="-2" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10003" x="2794" y="0" width="378" height="601" frameX="-4" frameY="-2" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10004" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10005" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10006" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10007" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10008" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10009" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10010" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10011" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinRight instance 10012" x="3172" y="0" width="382" height="599" frameX="0" frameY="-4" frameWidth="389" frameHeight="603"/>
+	<SubTexture name="SkinUp instance 10000" x="3554" y="0" width="402" height="621"/>
+	<SubTexture name="SkinUp instance 10001" x="3554" y="0" width="402" height="621"/>
+	<SubTexture name="SkinUp instance 10002" x="0" y="621" width="400" height="617" frameX="-2" frameY="-4" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10003" x="0" y="621" width="400" height="617" frameX="-2" frameY="-4" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10004" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10005" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10006" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10007" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10008" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10009" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10010" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10011" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkinUp instance 10012" x="400" y="621" width="399" height="613" frameX="-3" frameY="-8" frameWidth="402" frameHeight="621"/>
+	<SubTexture name="SkniIdle instance 10000" x="799" y="621" width="411" height="611" frameX="-3" frameY="-4" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10001" x="799" y="621" width="411" height="611" frameX="-3" frameY="-4" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10002" x="1210" y="621" width="410" height="612" frameX="-2" frameY="-3" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10003" x="1210" y="621" width="410" height="612" frameX="-2" frameY="-3" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10004" x="1620" y="621" width="410" height="613" frameX="-1" frameY="-2" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10005" x="1620" y="621" width="410" height="613" frameX="-1" frameY="-2" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10006" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10007" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10008" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10009" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10010" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10011" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10012" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10013" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+	<SubTexture name="SkniIdle instance 10014" x="2030" y="621" width="410" height="615" frameX="0" frameY="0" frameWidth="414" frameHeight="615"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sh amy.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amyidle0000" x="0" y="0" width="361" height="771" frameX="0" frameY="-15" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0001" x="361" y="0" width="360" height="771" frameX="0" frameY="-15" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0002" x="721" y="0" width="361" height="773" frameX="0" frameY="-14" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0003" x="1082" y="0" width="361" height="773" frameX="0" frameY="-14" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0004" x="1443" y="0" width="353" height="783" frameX="0" frameY="-4" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0005" x="1443" y="0" width="353" height="783" frameX="0" frameY="-4" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0006" x="0" y="783" width="352" height="786" frameX="0" frameY="-1" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0007" x="0" y="783" width="352" height="786" frameX="0" frameY="-1" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0008" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0009" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0010" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0011" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0012" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0013" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0014" x="352" y="783" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0015" x="703" y="783" width="361" height="771" frameX="0" frameY="-15" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0016" x="1064" y="783" width="360" height="771" frameX="0" frameY="-15" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0017" x="1424" y="783" width="361" height="773" frameX="0" frameY="-14" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0018" x="0" y="1570" width="361" height="773" frameX="0" frameY="-14" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0019" x="361" y="1570" width="353" height="783" frameX="0" frameY="-4" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0020" x="361" y="1570" width="353" height="783" frameX="0" frameY="-4" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0021" x="714" y="1570" width="352" height="786" frameX="0" frameY="-1" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0022" x="714" y="1570" width="352" height="786" frameX="0" frameY="-1" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0023" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0024" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0025" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0026" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0027" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0028" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+	<SubTexture name="amyidle0029" x="1066" y="1570" width="351" height="787" frameX="0" frameY="0" frameWidth="361" frameHeight="787"/>
+</TextureAtlas>

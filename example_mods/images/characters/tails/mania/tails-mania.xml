@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shtails.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shdown0000" x="0" y="0" width="892" height="977" frameX="0" frameY="0" frameWidth="892" frameHeight="983"/>
+	<SubTexture name="shdown0001" x="0" y="0" width="892" height="977" frameX="0" frameY="0" frameWidth="892" frameHeight="983"/>
+	<SubTexture name="shdown0002" x="892" y="0" width="892" height="983"/>
+	<SubTexture name="shdown0003" x="892" y="0" width="892" height="983"/>
+	<SubTexture name="shdown0004" x="1784" y="0" width="892" height="983"/>
+	<SubTexture name="shdown0005" x="1784" y="0" width="892" height="983"/>
+	<SubTexture name="shdown0006" x="2676" y="0" width="892" height="983"/>
+	<SubTexture name="shdown0007" x="2676" y="0" width="892" height="983"/>
+	<SubTexture name="shidle0000" x="0" y="983" width="889" height="976"/>
+	<SubTexture name="shidle0001" x="889" y="983" width="889" height="976"/>
+	<SubTexture name="shidle0002" x="1778" y="983" width="889" height="976"/>
+	<SubTexture name="shidle0003" x="2667" y="983" width="889" height="976"/>
+	<SubTexture name="shidle0004" x="0" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0005" x="889" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0006" x="1778" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0007" x="1778" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0008" x="2667" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0009" x="2667" y="1959" width="889" height="976"/>
+	<SubTexture name="shidle0010" x="0" y="2935" width="889" height="976"/>
+	<SubTexture name="shidle0011" x="0" y="2935" width="889" height="976"/>
+	<SubTexture name="shidle0012" x="889" y="2935" width="889" height="976"/>
+	<SubTexture name="shidle0013" x="889" y="2935" width="889" height="976"/>
+	<SubTexture name="shidle0014" x="1778" y="2935" width="889" height="976"/>
+	<SubTexture name="shleft0000" x="2667" y="2935" width="890" height="975"/>
+	<SubTexture name="shleft0001" x="2667" y="2935" width="890" height="975"/>
+	<SubTexture name="shleft0002" x="0" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0003" x="0" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0004" x="890" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0005" x="890" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0006" x="1780" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0007" x="1780" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0008" x="2670" y="3911" width="890" height="975"/>
+	<SubTexture name="shleft0009" x="2670" y="3911" width="890" height="975"/>
+	<SubTexture name="shright0000" x="0" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0001" x="0" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0002" x="1184" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0003" x="1184" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0004" x="2368" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0005" x="2368" y="4886" width="1184" height="976"/>
+	<SubTexture name="shright0006" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0007" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0008" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0009" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0010" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0011" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shright0012" x="0" y="5862" width="1184" height="976"/>
+	<SubTexture name="shup0000" x="1184" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0001" x="1184" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0002" x="2074" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0003" x="2074" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0004" x="2964" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0005" x="2964" y="5862" width="890" height="1159"/>
+	<SubTexture name="shup0006" x="0" y="7021" width="890" height="1159"/>
+	<SubTexture name="shup0007" x="0" y="7021" width="890" height="1159"/>
+</TextureAtlas>

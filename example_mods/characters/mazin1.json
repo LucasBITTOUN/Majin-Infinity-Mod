@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				121
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				274,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/majin/jp/mazin",
+	"position": [
+		-150,
+		290
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		128
+	],
+	"camera_position": [
+		-50,
+		-130
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}

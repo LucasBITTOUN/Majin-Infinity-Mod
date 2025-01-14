@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="P2Sonic_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="P2Sonic DOWN instance 10000" x="0" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10001" x="645" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10002" x="1290" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10003" x="1935" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10004" x="2580" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10005" x="3225" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10006" x="3870" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10007" x="4515" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10008" x="5160" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10009" x="5805" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic DOWN instance 10010" x="6450" y="0" width="645" height="795"/>
+	<SubTexture name="P2Sonic IDLE instance 10000" x="7095" y="0" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10001" x="0" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10002" x="665" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10003" x="1330" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10004" x="1995" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10005" x="2660" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10006" x="3325" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10007" x="3990" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10008" x="4655" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10009" x="5320" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic IDLE instance 10010" x="5985" y="801" width="665" height="801"/>
+	<SubTexture name="P2Sonic LEFT instance 10000" x="6650" y="801" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10001" x="7367" y="801" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10002" x="0" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10003" x="717" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10004" x="1434" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10005" x="2151" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10006" x="2868" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10007" x="3585" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10008" x="4302" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10009" x="5019" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic LEFT instance 10010" x="5736" y="1603" width="717" height="802"/>
+	<SubTexture name="P2Sonic RIGHT instance 10000" x="6453" y="1603" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10001" x="7173" y="1603" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10002" x="0" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10003" x="720" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10004" x="1440" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10005" x="2160" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10006" x="2880" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10007" x="3600" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10008" x="4320" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10009" x="5040" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic RIGHT instance 10010" x="5760" y="2405" width="720" height="781"/>
+	<SubTexture name="P2Sonic UP instance 10000" x="6480" y="2405" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10001" x="7050" y="2405" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10002" x="7620" y="2405" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10003" x="0" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10004" x="570" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10005" x="1140" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10006" x="1710" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10007" x="2280" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10008" x="2850" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10009" x="3420" y="3416" width="570" height="1011"/>
+	<SubTexture name="P2Sonic UP instance 10010" x="3990" y="3416" width="570" height="1011"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Does the same thing as a normal Flashbang but
+it's red instead of white. Used when you don't
+dodge Sl4sh's attack.
+
+Value 1: speed

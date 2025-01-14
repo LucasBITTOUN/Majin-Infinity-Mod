@@ -1,0 +1,2 @@
+value1 = dad/bf/off
+value2 = tiempo de desvanecimiento

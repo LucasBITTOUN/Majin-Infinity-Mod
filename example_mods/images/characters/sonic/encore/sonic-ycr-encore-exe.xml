@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SEXE.png">
+<SubTexture name="SEXE Idle0000" x="125" y="0" width="34" height="40" frameX="-20" frameY="-24" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Idle0001" x="105" y="87" width="34" height="39" frameX="-19" frameY="-25" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Idle0002" x="0" y="87" width="35" height="40" frameX="-18" frameY="-24" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Idle0003" x="90" y="0" width="35" height="41" frameX="-18" frameY="-23" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Idle0004" x="90" y="41" width="35" height="41" frameX="-18" frameY="-23" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Left0000" x="59" y="44" width="30" height="39" frameX="-24" frameY="-25" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Left0001" x="0" y="44" width="27" height="43" frameX="-25" frameY="-21" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Left0002" x="0" y="0" width="26" height="44" frameX="-25" frameY="-20" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Up0000" x="27" y="44" width="32" height="43" frameX="-24" frameY="-16" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Up0001" x="26" y="0" width="32" height="44" frameX="-24" frameY="-16" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Up0002" x="58" y="0" width="32" height="44" frameX="-24" frameY="-17" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Right0000" x="125" y="40" width="30" height="40" frameX="-31" frameY="-24" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Right0001" x="35" y="87" width="34" height="40" frameX="-28" frameY="-24" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Right0002" x="69" y="87" width="36" height="40" frameX="-27" frameY="-24" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Down0000" x="32" y="127" width="34" height="30" frameX="-24" frameY="-34" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Down0001" x="66" y="127" width="33" height="30" frameX="-25" frameY="-34" frameWidth="78" frameHeight="78" />
+<SubTexture name="SEXE Down0002" x="0" y="127" width="32" height="31" frameX="-25" frameY="-33" frameWidth="78" frameHeight="78" />
+</TextureAtlas>

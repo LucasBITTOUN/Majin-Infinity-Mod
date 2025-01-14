@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="XenoDark.png">
+<SubTexture name="Beast_DOWN instance 0000" x="2080" y="496" width="379" height="476" frameX="0" frameY="-35" frameWidth="379" frameHeight="514" />
+<SubTexture name="Beast_DOWN instance 0001" x="2080" y="496" width="379" height="476" frameX="0" frameY="-35" frameWidth="379" frameHeight="514" />
+<SubTexture name="Beast_DOWN instance 0002" x="723" y="1236" width="369" height="513" frameX="-3" frameY="-1" frameWidth="379" frameHeight="514" />
+<SubTexture name="Beast_LEFT instance 0000" x="0" y="1236" width="314" height="576" frameX="0" frameY="-1" frameWidth="353" frameHeight="578" />
+<SubTexture name="Beast_LEFT instance 0001" x="0" y="1236" width="314" height="576" frameX="0" frameY="-1" frameWidth="353" frameHeight="578" />
+<SubTexture name="Beast_LEFT instance 0002" x="1772" y="0" width="308" height="577" frameX="-6" frameY="0" frameWidth="353" frameHeight="578" />
+<SubTexture name="Beast_RIGHT instance 0000" x="2080" y="0" width="465" height="496" frameX="-8" frameY="-1" frameWidth="476" frameHeight="497" />
+<SubTexture name="Beast_RIGHT instance 0001" x="2080" y="0" width="465" height="496" frameX="-8" frameY="-1" frameWidth="476" frameHeight="497" />
+<SubTexture name="Beast_RIGHT instance 0002" x="0" y="1813" width="473" height="496" frameX="-3" frameY="-1" frameWidth="476" frameHeight="497" />
+<SubTexture name="Beast_UP instance 0000" x="0" y="0" width="435" height="649" frameX="0" frameY="-3" frameWidth="435" frameHeight="652" />
+<SubTexture name="Beast_UP instance 0001" x="0" y="0" width="435" height="649" frameX="0" frameY="-3" frameWidth="435" frameHeight="652" />
+<SubTexture name="Beast_UP instance 0002" x="435" y="0" width="435" height="646" frameX="0" frameY="-5" frameWidth="435" frameHeight="652" />
+<SubTexture name="Symbol 18 instance 0000" x="1525" y="1236" width="451" height="500" frameX="-2" frameY="-91" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0001" x="1525" y="1236" width="451" height="500" frameX="-2" frameY="-91" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0002" x="1093" y="1236" width="432" height="504" frameX="0" frameY="-88" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0003" x="1093" y="1236" width="432" height="504" frameX="0" frameY="-88" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0004" x="314" y="1236" width="409" height="522" frameX="-18" frameY="-73" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0005" x="314" y="1236" width="409" height="522" frameX="-18" frameY="-73" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0006" x="445" y="649" width="408" height="586" frameX="-15" frameY="-8" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0007" x="445" y="649" width="408" height="586" frameX="-15" frameY="-8" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0008" x="0" y="649" width="445" height="587" frameX="-10" frameY="-8" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0009" x="0" y="649" width="445" height="587" frameX="-10" frameY="-8" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0010" x="870" y="0" width="449" height="588" frameX="-4" frameY="-6" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0011" x="870" y="0" width="449" height="588" frameX="-4" frameY="-6" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0012" x="854" y="649" width="428" height="584" frameX="-2" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0013" x="854" y="649" width="428" height="584" frameX="-2" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0014" x="1319" y="0" width="452" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0015" x="1319" y="0" width="452" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0016" x="1319" y="584" width="425" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0017" x="1319" y="584" width="425" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0018" x="1319" y="584" width="425" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+<SubTexture name="Symbol 18 instance 0019" x="1319" y="584" width="425" height="584" frameX="-3" frameY="-11" frameWidth="455" frameHeight="597" />
+</TextureAtlas>

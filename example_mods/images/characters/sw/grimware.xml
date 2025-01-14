@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="grimware.png" width="4096" height="4096">
+  <SubTexture name="Sing Note UP0000" x="0" y="0"  width="594" height="982" frameX="-0" frameY="-0" frameWidth="594" frameHeight="982"/>
+  <SubTexture name="Sing Note UP0002" x="0" y="982"  width="575" height="970" frameX="-0" frameY="-0" frameWidth="575" frameHeight="970"/>
+  <SubTexture name="Sing Note UP0001" x="0" y="1952"  width="576" height="968" frameX="-0" frameY="-0" frameWidth="576" frameHeight="968"/>
+  <SubTexture name="Sing Note LEFT0000" x="575" y="982" width="767" height="954" rotated="true"  frameX="-0" frameY="-0" frameWidth="954" frameHeight="767"/>
+  <SubTexture name="Sing Note LEFT0003" x="594" y="0" width="770" height="953" rotated="true"  frameX="-0" frameY="-0" frameWidth="953" frameHeight="770"/>
+  <SubTexture name="Sing Note LEFT0002" x="0" y="2920" width="778" height="952" rotated="true"  frameX="-0" frameY="-0" frameWidth="952" frameHeight="778"/>
+  <SubTexture name="Sing Note UP0003" x="576" y="1936"  width="559" height="950" frameX="-0" frameY="-0" frameWidth="559" frameHeight="950"/>
+  <SubTexture name="Sing Note LEFT0001" x="778" y="2886" width="785" height="948" rotated="true"  frameX="-0" frameY="-0" frameWidth="948" frameHeight="785"/>
+  <SubTexture name="idle0001" x="1135" y="1936"  width="726" height="945" frameX="-0" frameY="-0" frameWidth="726" frameHeight="945"/>
+  <SubTexture name="idle0002" x="1342" y="953"  width="724" height="936" frameX="-0" frameY="-0" frameWidth="724" frameHeight="936"/>
+  <SubTexture name="idle0003" x="1861" y="0"  width="704" height="933" frameX="-0" frameY="-0" frameWidth="704" frameHeight="933"/>
+  <SubTexture name="idle0000" x="2565" y="0"  width="687" height="931" frameX="-0" frameY="-0" frameWidth="687" frameHeight="931"/>
+  <SubTexture name="Sing Note RIGHT0001" x="3252" y="0"  width="825" height="577" frameX="-0" frameY="-0" frameWidth="825" frameHeight="577"/>
+  <SubTexture name="Sing Note RIGHT0000" x="3252" y="577"  width="822" height="578" frameX="-0" frameY="-0" frameWidth="822" frameHeight="578"/>
+  <SubTexture name="Sing Note RIGHT0002" x="3252" y="1155"  width="817" height="576" frameX="-0" frameY="-0" frameWidth="817" frameHeight="576"/>
+  <SubTexture name="Sing Note RIGHT0003" x="2565" y="931" width="572" height="811" rotated="true"  frameX="-0" frameY="-0" frameWidth="811" frameHeight="572"/>
+  <SubTexture name="Sing Note DOWN0002" x="3137" y="1731"  width="743" height="718" frameX="-0" frameY="-0" frameWidth="743" frameHeight="718"/>
+  <SubTexture name="Sing Note DOWN0003" x="3137" y="2449"  width="740" height="702" frameX="-0" frameY="-0" frameWidth="740" frameHeight="702"/>
+  <SubTexture name="Sing Note DOWN0001" x="1563" y="3151" width="729" height="739" rotated="true"  frameX="-0" frameY="-0" frameWidth="739" frameHeight="729"/>
+  <SubTexture name="Sing Note DOWN0000" x="2292" y="1742" width="728" height="726" rotated="true"  frameX="-0" frameY="-0" frameWidth="726" frameHeight="728"/>
+</TextureAtlas>

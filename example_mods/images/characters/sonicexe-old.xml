@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic exe assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIClaugh0000" x="0" y="0" width="422" height="608" frameX="-6" frameY="0" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0001" x="432" y="0" width="409" height="596" frameX="-2" frameY="-11" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0002" x="851" y="0" width="408" height="593" frameX="-1" frameY="-13" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0003" x="1269" y="0" width="407" height="592" frameX="-1" frameY="-14" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0004" x="1686" y="0" width="407" height="591" frameX="0" frameY="-15" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0005" x="2103" y="0" width="407" height="591" frameX="0" frameY="-15" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0006" x="2520" y="0" width="406" height="590" frameX="0" frameY="-16" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0007" x="2520" y="0" width="406" height="590" frameX="0" frameY="-16" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0008" x="2520" y="0" width="406" height="590" frameX="0" frameY="-16" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0009" x="2520" y="0" width="406" height="590" frameX="0" frameY="-16" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONIClaugh0010" x="2520" y="0" width="406" height="590" frameX="0" frameY="-16" frameWidth="428" frameHeight="608"/>
+	<SubTexture name="SONICmoveDOWN0000" x="2936" y="0" width="361" height="559" frameX="-2" frameY="-52" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0001" x="3307" y="0" width="363" height="587" frameX="0" frameY="-25" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0002" x="3680" y="0" width="363" height="601" frameX="0" frameY="-11" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0003" x="4053" y="0" width="362" height="603" frameX="0" frameY="-9" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0004" x="4425" y="0" width="361" height="602" frameX="-1" frameY="-10" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0005" x="4796" y="0" width="360" height="608" frameX="-1" frameY="-4" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0006" x="5166" y="0" width="360" height="609" frameX="-1" frameY="-3" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0007" x="5536" y="0" width="360" height="611" frameX="-1" frameY="-1" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0008" x="5906" y="0" width="360" height="611" frameX="-1" frameY="-1" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0009" x="6276" y="0" width="360" height="612" frameX="-1" frameY="0" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveDOWN0010" x="6646" y="0" width="360" height="612" frameX="-1" frameY="0" frameWidth="363" frameHeight="612"/>
+	<SubTexture name="SONICmoveIDLE0000" x="7016" y="0" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0001" x="7387" y="0" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0002" x="7758" y="0" width="361" height="582" frameX="-1" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0003" x="0" y="622" width="363" height="582" frameX="-4" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0004" x="373" y="622" width="364" height="581" frameX="-5" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0005" x="747" y="622" width="363" height="581" frameX="-6" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0006" x="1120" y="622" width="364" height="581" frameX="-5" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0007" x="1494" y="622" width="364" height="581" frameX="-4" frameY="-2" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0008" x="1868" y="622" width="362" height="582" frameX="-1" frameY="-1" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0009" x="2240" y="622" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveIDLE0010" x="7016" y="0" width="361" height="583" frameX="0" frameY="0" frameWidth="369" frameHeight="583"/>
+	<SubTexture name="SONICmoveLEFT0000" x="2611" y="622" width="419" height="551" frameX="0" frameY="-18" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0001" x="3040" y="622" width="400" height="569" frameX="-19" frameY="0" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0002" x="3450" y="622" width="394" height="561" frameX="-25" frameY="-8" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0003" x="3854" y="622" width="392" height="554" frameX="-27" frameY="-15" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0004" x="4256" y="622" width="391" height="558" frameX="-28" frameY="-11" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0005" x="4657" y="622" width="391" height="559" frameX="-29" frameY="-10" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0006" x="5058" y="622" width="390" height="559" frameX="-29" frameY="-10" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0007" x="5458" y="622" width="389" height="559" frameX="-30" frameY="-10" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0008" x="5857" y="622" width="390" height="559" frameX="-30" frameY="-10" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0009" x="6257" y="622" width="390" height="560" frameX="-30" frameY="-9" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveLEFT0010" x="6657" y="622" width="390" height="560" frameX="-30" frameY="-9" frameWidth="420" frameHeight="569"/>
+	<SubTexture name="SONICmoveRIGHT0000" x="7057" y="622" width="412" height="615" frameX="-20" frameY="-22" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0001" x="7479" y="622" width="394" height="637" frameX="-9" frameY="0" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0002" x="0" y="1269" width="394" height="619" frameX="-3" frameY="-18" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0003" x="404" y="1269" width="392" height="618" frameX="-2" frameY="-19" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0004" x="806" y="1269" width="392" height="618" frameX="-1" frameY="-19" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0005" x="1208" y="1269" width="392" height="624" frameX="0" frameY="-13" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0006" x="1610" y="1269" width="392" height="624" frameX="0" frameY="-13" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0007" x="2012" y="1269" width="391" height="625" frameX="0" frameY="-12" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0008" x="2413" y="1269" width="391" height="625" frameX="0" frameY="-12" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0009" x="2814" y="1269" width="391" height="625" frameX="0" frameY="-12" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveRIGHT0010" x="3215" y="1269" width="391" height="625" frameX="0" frameY="-12" frameWidth="432" frameHeight="637"/>
+	<SubTexture name="SONICmoveUP0000" x="3616" y="1269" width="456" height="670" frameX="-1" frameY="0" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0001" x="4082" y="1269" width="455" height="661" frameX="-1" frameY="-6" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0002" x="4547" y="1269" width="456" height="647" frameX="0" frameY="-19" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0003" x="5013" y="1269" width="461" height="644" frameX="0" frameY="-22" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0004" x="5484" y="1269" width="457" height="646" frameX="0" frameY="-19" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0005" x="5951" y="1269" width="456" height="645" frameX="0" frameY="-20" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0006" x="6417" y="1269" width="456" height="645" frameX="0" frameY="-20" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0007" x="6883" y="1269" width="456" height="644" frameX="0" frameY="-21" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0008" x="7349" y="1269" width="456" height="643" frameX="0" frameY="-22" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0009" x="0" y="1949" width="456" height="643" frameX="0" frameY="-22" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="SONICmoveUP0010" x="466" y="1949" width="456" height="643" frameX="0" frameY="-22" frameWidth="461" frameHeight="670"/>
+	<SubTexture name="Sonic Im gonna getcha0000" x="932" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0001" x="1303" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0002" x="1674" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0003" x="2045" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0004" x="2416" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0005" x="2787" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0006" x="3158" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0007" x="3529" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0008" x="3900" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0009" x="4271" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0010" x="4642" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0011" x="5013" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0012" x="5384" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0013" x="5755" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0014" x="6126" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0015" x="6497" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0016" x="6868" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0017" x="7239" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0018" x="7610" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0019" x="5755" y="1949" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0020" x="0" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0021" x="371" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0022" x="742" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0023" x="1113" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0024" x="1484" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0025" x="1855" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0026" x="2226" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0027" x="2597" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0028" x="2968" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0029" x="3339" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0030" x="3710" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0031" x="4081" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0032" x="4452" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0033" x="4823" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0034" x="5194" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0035" x="5565" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0036" x="5936" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0037" x="6307" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0038" x="6678" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0039" x="7049" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0040" x="7420" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0041" x="7791" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0042" x="0" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0043" x="371" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0044" x="742" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0045" x="1113" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0046" x="7420" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0047" x="7791" y="2602" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0048" x="0" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0049" x="371" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0050" x="742" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0051" x="1484" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0052" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0053" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0054" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0055" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0056" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0057" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0058" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0059" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0060" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0061" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0062" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0063" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0064" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0065" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0066" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0067" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0068" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0069" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0070" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0071" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0072" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0073" x="2226" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0074" x="1855" y="3194" width="361" height="582" frameX="-127" frameY="-10" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0075" x="2597" y="3194" width="389" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0076" x="2996" y="3194" width="389" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0077" x="2996" y="3194" width="389" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0078" x="3395" y="3194" width="395" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0079" x="3800" y="3194" width="404" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0080" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0081" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0082" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0083" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0084" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0085" x="4214" y="3194" width="411" height="592" frameX="-107" frameY="0" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0086" x="4635" y="3194" width="410" height="591" frameX="-96" frameY="-1" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0087" x="5055" y="3194" width="413" height="588" frameX="-98" frameY="-4" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0088" x="5478" y="3194" width="412" height="585" frameX="-101" frameY="-7" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0089" x="5900" y="3194" width="412" height="585" frameX="-101" frameY="-7" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0090" x="5900" y="3194" width="412" height="585" frameX="-101" frameY="-7" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0091" x="6322" y="3194" width="363" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0092" x="6695" y="3194" width="363" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0093" x="7068" y="3194" width="364" height="564" frameX="-126" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0094" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0095" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0096" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0097" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0098" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0099" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0100" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0101" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0102" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0103" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0104" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0105" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0106" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0107" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0108" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0109" x="7442" y="3194" width="366" height="564" frameX="-125" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0110" x="0" y="3796" width="447" height="565" frameX="-83" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0111" x="457" y="3796" width="453" height="565" frameX="-76" frameY="-28" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0112" x="920" y="3796" width="443" height="561" frameX="-83" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0113" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0114" x="920" y="3796" width="443" height="561" frameX="-83" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0115" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0116" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0117" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0118" x="920" y="3796" width="443" height="561" frameX="-83" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0119" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0120" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0121" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0122" x="920" y="3796" width="443" height="561" frameX="-83" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0123" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0124" x="920" y="3796" width="443" height="561" frameX="-83" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0125" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0126" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0127" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0128" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0129" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0130" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0131" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0132" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0133" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0134" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0135" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0136" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0137" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0138" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0139" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0140" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0141" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0142" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0143" x="2288" y="3796" width="450" height="561" frameX="-76" frameY="-32" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0144" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0145" x="1373" y="3796" width="451" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0146" x="1834" y="3796" width="444" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0147" x="2748" y="3796" width="458" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0148" x="3216" y="3796" width="450" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0149" x="3676" y="3796" width="457" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0150" x="4143" y="3796" width="450" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0151" x="4603" y="3796" width="457" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0152" x="4143" y="3796" width="450" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0153" x="4603" y="3796" width="457" height="562" frameX="-76" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0154" x="4143" y="3796" width="450" height="562" frameX="-83" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0155" x="5070" y="3796" width="526" height="562" frameX="-7" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0156" x="5606" y="3796" width="533" height="562" frameX="0" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0157" x="6149" y="3796" width="427" height="562" frameX="-106" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0158" x="6149" y="3796" width="427" height="562" frameX="-106" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0159" x="6149" y="3796" width="427" height="562" frameX="-106" frameY="-31" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0160" x="6586" y="3796" width="426" height="554" frameX="-59" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0161" x="7022" y="3796" width="425" height="554" frameX="-58" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0162" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0163" x="7022" y="3796" width="425" height="554" frameX="-58" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0164" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0165" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0166" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0167" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0168" x="7457" y="3796" width="426" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0169" x="0" y="4371" width="433" height="554" frameX="-60" frameY="-39" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0170" x="443" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0171" x="1048" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0172" x="1653" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0173" x="2211" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0174" x="2769" y="4371" width="535" height="533" frameX="-112" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0175" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0176" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0177" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0178" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0179" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0180" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0181" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0182" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0183" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0184" x="443" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0185" x="1048" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0186" x="1653" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0187" x="2211" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0188" x="2769" y="4371" width="535" height="533" frameX="-112" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0189" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0190" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0191" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0192" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0193" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0194" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0195" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0196" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0197" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0198" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0199" x="443" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0200" x="1048" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0201" x="1653" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0202" x="2211" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0203" x="2769" y="4371" width="535" height="533" frameX="-112" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0204" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0205" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0206" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0207" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0208" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0209" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0210" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0211" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0212" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0213" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0214" x="443" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0215" x="1048" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0216" x="1653" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0217" x="2211" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0218" x="2769" y="4371" width="535" height="533" frameX="-112" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0219" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0220" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0221" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0222" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0223" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0224" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0225" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0226" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0227" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0228" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0229" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0230" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0231" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0232" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0233" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0234" x="4937" y="4371" width="563" height="533" frameX="-84" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0235" x="443" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0236" x="1048" y="4371" width="595" height="539" frameX="-84" frameY="-55" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0237" x="1653" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0238" x="2211" y="4371" width="548" height="536" frameX="-109" frameY="-58" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0239" x="2769" y="4371" width="535" height="533" frameX="-112" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0240" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0241" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0242" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0243" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0244" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0245" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0246" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0247" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0248" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0249" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0250" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0251" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0252" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0253" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0254" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0255" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0256" x="4396" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0257" x="3314" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+	<SubTexture name="Sonic Im gonna getcha0258" x="3855" y="4371" width="531" height="533" frameX="-116" frameY="-61" frameWidth="679" frameHeight="594"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="encoregf.png">
+<SubTexture name="encoregf idle0000" x="0" y="0" width="1783" height="2042" frameX="-37" frameY="-6" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="encoregf idle0001" x="1783" y="0" width="1783" height="2042" frameX="-37" frameY="-6" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="encoregf idle0002" x="3566" y="0" width="1783" height="2042" frameX="-37" frameY="-6" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="encoregf idle0003" x="0" y="2042" width="1783" height="2042" frameX="-37" frameY="-6" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="encoregf idle0004" x="1783" y="2042" width="1783" height="2042" frameX="-37" frameY="-6" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

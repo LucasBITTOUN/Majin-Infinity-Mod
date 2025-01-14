@@ -1,0 +1,69 @@
+﻿AH<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3D_X.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Symbol0000" x="0" y="0" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0001" x="0" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0002" x="0" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0003" x="0" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0004" x="0" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0005" x="0" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0006" x="0" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0007" x="1050" y="0" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0008" x="2100" y="0" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0009" x="3150" y="0" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0010" x="4200" y="0" width="1050" height="1050"/>
+	<SubTexture name="Down Symbol0011" x="5250" y="0" width="1050" height="1050"/>
+	<SubTexture name="IDLE NEW0000" x="1116" y="7350" width="372" height="689" frameX="-1" frameY="0" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0001" x="5581" y="7350" width="372" height="657" frameX="-1" frameY="-32" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0002" x="5208" y="7350" width="373" height="660" frameX="0" frameY="-29" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0003" x="4836" y="7350" width="372" height="664" frameX="-1" frameY="-25" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0004" x="4464" y="7350" width="372" height="669" frameX="-1" frameY="-20" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0005" x="4092" y="7350" width="372" height="675" frameX="-1" frameY="-14" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0006" x="3720" y="7350" width="372" height="681" frameX="-1" frameY="-9" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0007" x="3348" y="7350" width="372" height="684" frameX="-1" frameY="-6" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0008" x="2976" y="7350" width="372" height="687" frameX="-1" frameY="-3" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0009" x="0" y="7350" width="372" height="690" frameX="-1" frameY="0" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0010" x="372" y="7350" width="372" height="690" frameX="-1" frameY="0" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0011" x="744" y="7350" width="372" height="690" frameX="-1" frameY="0" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0012" x="1488" y="7350" width="372" height="689" frameX="-1" frameY="-1" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0013" x="1860" y="7350" width="372" height="689" frameX="-1" frameY="-1" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0014" x="2232" y="7350" width="372" height="688" frameX="-1" frameY="-2" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="IDLE NEW0015" x="2604" y="7350" width="372" height="688" frameX="-1" frameY="-2" frameWidth="373" frameHeight="690"/>
+	<SubTexture name="Left symbol0000" x="6300" y="0" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0001" x="1050" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0002" x="1050" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0003" x="1050" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0004" x="1050" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0005" x="1050" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0006" x="1050" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0007" x="2100" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0008" x="3150" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0009" x="4200" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0010" x="5250" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Left symbol0011" x="6300" y="1050" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0000" x="2100" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0001" x="2100" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0002" x="2100" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0003" x="2100" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0004" x="2100" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0005" x="3150" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0006" x="4200" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0007" x="5250" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0008" x="6300" y="2100" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0009" x="3150" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0010" x="3150" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Right Symbol0011" x="3150" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0000" x="3150" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0001" x="4200" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0002" x="5250" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0003" x="6300" y="3150" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0004" x="4200" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0005" x="4200" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0006" x="4200" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0007" x="5250" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0008" x="6300" y="4200" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0009" x="5250" y="5250" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0010" x="5250" y="6300" width="1050" height="1050"/>
+	<SubTexture name="Up Symbol0011" x="6300" y="5250" width="1050" height="1050"/>
+</TextureAtlas>

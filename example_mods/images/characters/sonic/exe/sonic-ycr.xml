@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YCR.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ycrdown0000" x="0" y="0" width="614" height="645" frameX="-23" frameY="-82" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0001" x="0" y="0" width="614" height="645" frameX="-23" frameY="-82" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0002" x="614" y="0" width="607" height="661" frameX="-27" frameY="-66" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0003" x="614" y="0" width="607" height="661" frameX="-27" frameY="-66" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0004" x="1221" y="0" width="607" height="663" frameX="-27" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0005" x="1221" y="0" width="607" height="663" frameX="-27" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0006" x="1828" y="0" width="606" height="663" frameX="-28" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0007" x="1828" y="0" width="606" height="663" frameX="-28" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0008" x="1828" y="0" width="606" height="663" frameX="-28" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0009" x="1828" y="0" width="606" height="663" frameX="-28" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0010" x="1828" y="0" width="606" height="663" frameX="-28" frameY="-64" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0011" x="2434" y="0" width="605" height="669" frameX="-29" frameY="-58" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0012" x="2434" y="0" width="605" height="669" frameX="-29" frameY="-58" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0013" x="3039" y="0" width="591" height="694" frameX="-43" frameY="-33" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycrdown0014" x="0" y="694" width="558" height="727" frameX="-76" frameY="0" frameWidth="638" frameHeight="727"/>
+	<SubTexture name="ycridle0000" x="558" y="694" width="471" height="733" frameX="-1" frameY="-7" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0001" x="1029" y="694" width="469" height="731" frameX="-8" frameY="-9" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0002" x="1029" y="694" width="469" height="731" frameX="-8" frameY="-9" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0003" x="1498" y="694" width="475" height="732" frameX="-6" frameY="-8" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0004" x="1498" y="694" width="475" height="732" frameX="-6" frameY="-8" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0005" x="1973" y="694" width="478" height="738" frameX="-5" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0006" x="1973" y="694" width="478" height="738" frameX="-5" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0007" x="2451" y="694" width="478" height="740" frameX="-1" frameY="0" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0008" x="2451" y="694" width="478" height="740" frameX="-1" frameY="0" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0009" x="2929" y="694" width="474" height="738" frameX="-1" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0010" x="2929" y="694" width="474" height="738" frameX="-1" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0011" x="3403" y="694" width="474" height="738" frameX="0" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0012" x="3403" y="694" width="474" height="738" frameX="0" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0013" x="3403" y="694" width="474" height="738" frameX="0" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycridle0014" x="3403" y="694" width="474" height="738" frameX="0" frameY="-2" frameWidth="483" frameHeight="740"/>
+	<SubTexture name="ycrleft0000" x="0" y="1434" width="612" height="670" frameX="0" frameY="-73" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0001" x="612" y="1434" width="612" height="670" frameX="0" frameY="-73" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0002" x="1224" y="1434" width="580" height="711" frameX="-50" frameY="-31" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0003" x="1224" y="1434" width="580" height="711" frameX="-50" frameY="-31" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0004" x="1804" y="1434" width="557" height="715" frameX="-78" frameY="-27" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0005" x="1804" y="1434" width="557" height="715" frameX="-78" frameY="-27" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0006" x="2361" y="1434" width="554" height="716" frameX="-82" frameY="-26" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0007" x="2361" y="1434" width="554" height="716" frameX="-82" frameY="-26" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0008" x="2361" y="1434" width="554" height="716" frameX="-82" frameY="-26" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0009" x="2361" y="1434" width="554" height="716" frameX="-82" frameY="-26" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0010" x="2361" y="1434" width="554" height="716" frameX="-82" frameY="-26" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0011" x="2915" y="1434" width="541" height="723" frameX="-97" frameY="-19" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0012" x="2915" y="1434" width="541" height="723" frameX="-97" frameY="-19" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0013" x="3456" y="1434" width="488" height="742" frameX="-133" frameY="0" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrleft0014" x="3456" y="1434" width="488" height="742" frameX="-133" frameY="0" frameWidth="638" frameHeight="743"/>
+	<SubTexture name="ycrright0000" x="0" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0001" x="0" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0002" x="1107" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0003" x="1107" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0004" x="2214" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0005" x="2214" y="2176" width="1107" height="852"/>
+	<SubTexture name="ycrright0006" x="0" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0007" x="0" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0008" x="0" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0009" x="0" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0010" x="1107" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0011" x="1107" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0012" x="2214" y="3028" width="1107" height="852"/>
+	<SubTexture name="ycrright0013" x="0" y="3880" width="1107" height="852"/>
+	<SubTexture name="ycrup0000" x="1107" y="3880" width="476" height="879" frameX="-27" frameY="0" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0001" x="1107" y="3880" width="476" height="879" frameX="-27" frameY="0" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0002" x="1583" y="3880" width="500" height="830" frameX="-22" frameY="-50" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0003" x="1583" y="3880" width="500" height="830" frameX="-22" frameY="-50" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0004" x="2083" y="3880" width="526" height="808" frameX="-8" frameY="-75" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0005" x="2083" y="3880" width="526" height="808" frameX="-8" frameY="-75" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0006" x="2609" y="3880" width="529" height="808" frameX="-7" frameY="-78" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0007" x="2609" y="3880" width="529" height="808" frameX="-7" frameY="-78" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0008" x="2609" y="3880" width="529" height="808" frameX="-7" frameY="-78" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0009" x="2609" y="3880" width="529" height="808" frameX="-7" frameY="-78" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0010" x="2609" y="3880" width="529" height="808" frameX="-7" frameY="-78" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0011" x="3138" y="3880" width="531" height="804" frameX="-7" frameY="-82" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0012" x="3138" y="3880" width="531" height="804" frameX="-7" frameY="-82" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0013" x="0" y="4759" width="533" height="796" frameX="-9" frameY="-90" frameWidth="564" frameHeight="886"/>
+	<SubTexture name="ycrup0014" x="533" y="4759" width="531" height="771" frameX="-33" frameY="-115" frameWidth="564" frameHeight="886"/>
+</TextureAtlas>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="B ALT MAJIN SONIC ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" B ALT MAJIN IDLE0000" x="5" y="5" width="484" height="551" frameX="-3" frameY="-6" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0001" x="5" y="5" width="484" height="551" frameX="-3" frameY="-6" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0002" x="494" y="5" width="470" height="523" frameX="-14" frameY="-35" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0003" x="494" y="5" width="470" height="523" frameX="-14" frameY="-35" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0004" x="477" y="2647" width="450" height="535" frameX="-19" frameY="-22" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0005" x="477" y="2647" width="450" height="535" frameX="-19" frameY="-22" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0006" x="932" y="2647" width="466" height="550" frameX="-8" frameY="-8" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0007" x="932" y="2647" width="466" height="550" frameX="-8" frameY="-8" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0008" x="1403" y="2647" width="483" height="558" frameX="-4" frameY="-1" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0009" x="1403" y="2647" width="483" height="558" frameX="-4" frameY="-1" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0010" x="1891" y="2647" width="486" height="559" frameX="-2" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0011" x="1891" y="2647" width="486" height="559" frameX="-2" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name=" B ALT MAJIN IDLE0012" x="969" y="5" width="485" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0013" x="969" y="5" width="485" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0014" x="1459" y="5" width="484" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0015" x="1459" y="5" width="484" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0016" x="1948" y="5" width="483" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name=" B ALT MAJIN IDLE0017" x="1948" y="5" width="483" height="559" frameX="0" frameY="0" frameWidth="487" frameHeight="559"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0000" x="2436" y="5" width="461" height="575" frameX="-55" frameY="-27" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0001" x="2902" y="5" width="467" height="575" frameX="-22" frameY="-27" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0002" x="3374" y="5" width="476" height="591" frameX="-32" frameY="-10" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0003" x="3855" y="5" width="484" height="591" frameX="0" frameY="-10" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0004" x="4344" y="5" width="517" height="604" frameX="-1" frameY="0" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0005" x="4344" y="5" width="517" height="604" frameX="-1" frameY="0" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0006" x="4866" y="5" width="464" height="592" frameX="-30" frameY="-6" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0007" x="4866" y="5" width="464" height="592" frameX="-30" frameY="-6" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0008" x="5335" y="5" width="466" height="592" frameX="-30" frameY="-6" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN DOWN0009" x="5335" y="5" width="466" height="592" frameX="-30" frameY="-6" frameWidth="518" frameHeight="604"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0000" x="5806" y="5" width="514" height="600" frameX="0" frameY="-3" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0001" x="6325" y="5" width="465" height="600" frameX="-78" frameY="-3" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0002" x="6795" y="5" width="524" height="586" frameX="-25" frameY="-17" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0003" x="7324" y="5" width="525" height="586" frameX="-19" frameY="-17" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0004" x="5" y="614" width="534" height="606" frameX="-25" frameY="0" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0005" x="5" y="614" width="534" height="606" frameX="-25" frameY="0" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0006" x="544" y="614" width="493" height="588" frameX="-47" frameY="-11" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN LEFT0007" x="544" y="614" width="493" height="588" frameX="-47" frameY="-11" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0000" x="1042" y="614" width="533" height="603" frameX="-12" frameY="0" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0001" x="1580" y="614" width="535" height="579" frameX="-51" frameY="-24" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0002" x="2120" y="614" width="539" height="565" frameX="-11" frameY="-39" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0003" x="2664" y="614" width="523" height="565" frameX="-49" frameY="-39" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0004" x="3192" y="614" width="607" height="573" frameX="0" frameY="-41" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0005" x="3192" y="614" width="607" height="573" frameX="0" frameY="-41" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0006" x="3804" y="614" width="517" height="559" frameX="-45" frameY="-41" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT GLITCH MAJIN UP0007" x="3804" y="614" width="517" height="559" frameX="-45" frameY="-41" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT MAJIN DEATH0000" x="4326" y="614" width="440" height="554" frameX="-168" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0001" x="4771" y="614" width="400" height="563" frameX="-169" frameY="-100" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0002" x="5176" y="614" width="394" height="596" frameX="-135" frameY="-63" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0003" x="5575" y="614" width="459" height="629" frameX="-66" frameY="-30" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0004" x="6039" y="614" width="571" height="659" frameX="-28" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0005" x="6615" y="614" width="551" height="675" frameX="-48" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0006" x="7171" y="614" width="576" height="675" frameX="-48" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0007" x="5" y="1294" width="598" height="678" frameX="-26" frameY="-3" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0008" x="608" y="1294" width="637" height="678" frameX="-26" frameY="-3" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0009" x="1250" y="1294" width="662" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0010" x="1917" y="1294" width="629" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0011" x="2551" y="1294" width="612" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0012" x="3168" y="1294" width="646" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0013" x="3819" y="1294" width="664" height="671" frameX="0" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0014" x="4488" y="1294" width="661" height="671" frameX="0" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0015" x="5154" y="1294" width="659" height="677" frameX="-2" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0016" x="5818" y="1294" width="660" height="677" frameX="-2" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0017" x="6483" y="1294" width="661" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0018" x="1917" y="1294" width="629" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0019" x="2551" y="1294" width="612" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0020" x="7149" y="1294" width="646" height="124" frameX="-18" frameY="-550" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0021" x="5" y="1977" width="633" height="132" frameX="-1" frameY="-543" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0022" x="643" y="1977" width="453" height="659" frameX="-51" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0023" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0024" x="1106" y="1977" width="643" height="133" frameX="-18" frameY="-548" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0025" x="1754" y="1977" width="453" height="659" frameX="-51" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0026" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0027" x="2212" y="1977" width="663" height="126" frameX="0" frameY="-547" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0028" x="2880" y="1977" width="497" height="665" frameX="-29" frameY="-1" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0029" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0030" x="3382" y="1977" width="663" height="131" frameX="-2" frameY="-543" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0031" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0032" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0033" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0034" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0035" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0036" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0037" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0038" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0039" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0040" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0041" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0042" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0043" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0044" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DEATH0045" x="1101" y="1977" width="0" height="0" frameX="-164" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="B ALT MAJIN DOWN0000" x="4050" y="1977" width="461" height="570" frameX="-6" frameY="-22" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0001" x="4050" y="1977" width="461" height="570" frameX="-6" frameY="-22" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0002" x="4516" y="1977" width="451" height="588" frameX="-1" frameY="-4" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0003" x="4516" y="1977" width="451" height="588" frameX="-1" frameY="-4" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0004" x="4972" y="1977" width="462" height="592" frameX="-1" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0005" x="4972" y="1977" width="462" height="592" frameX="-1" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0006" x="5439" y="1977" width="464" height="592" frameX="0" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0007" x="5439" y="1977" width="464" height="592" frameX="0" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0008" x="5908" y="1977" width="466" height="592" frameX="0" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN DOWN0009" x="5908" y="1977" width="466" height="592" frameX="0" frameY="0" frameWidth="467" frameHeight="592"/>
+	<SubTexture name="B ALT MAJIN INTRO0000" x="6379" y="1977" width="192" height="196" frameX="0" frameY="-378" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0001" x="6576" y="1977" width="192" height="196" frameX="-319" frameY="-378" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0002" x="6773" y="1977" width="487" height="309" frameX="-420" frameY="-265" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0003" x="7265" y="1977" width="484" height="548" frameX="-581" frameY="-9" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0004" x="7265" y="1977" width="484" height="548" frameX="-581" frameY="-9" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0005" x="5" y="2647" width="467" height="522" frameX="-663" frameY="-35" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0006" x="5" y="2647" width="467" height="522" frameX="-663" frameY="-35" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0007" x="477" y="2647" width="450" height="535" frameX="-667" frameY="-23" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0008" x="477" y="2647" width="450" height="535" frameX="-667" frameY="-23" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0009" x="932" y="2647" width="466" height="550" frameX="-657" frameY="-8" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0010" x="932" y="2647" width="466" height="550" frameX="-657" frameY="-8" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0011" x="1403" y="2647" width="483" height="558" frameX="-652" frameY="-1" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0012" x="1403" y="2647" width="483" height="558" frameX="-652" frameY="-1" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0013" x="1891" y="2647" width="486" height="559" frameX="-649" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0014" x="1891" y="2647" width="486" height="559" frameX="-649" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0015" x="2382" y="2647" width="486" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0016" x="2382" y="2647" width="486" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0017" x="2873" y="2647" width="485" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0018" x="2873" y="2647" width="485" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0019" x="3363" y="2647" width="484" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN INTRO0020" x="3363" y="2647" width="484" height="559" frameX="-648" frameY="0" frameWidth="1135" frameHeight="574"/>
+	<SubTexture name="B ALT MAJIN LEFT0000" x="3852" y="2647" width="485" height="594" frameX="0" frameY="0" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0001" x="3852" y="2647" width="485" height="594" frameX="0" frameY="0" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0002" x="4342" y="2647" width="499" height="581" frameX="-1" frameY="-13" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0003" x="4342" y="2647" width="499" height="581" frameX="-1" frameY="-13" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0004" x="4846" y="2647" width="493" height="585" frameX="-7" frameY="-9" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0005" x="4846" y="2647" width="493" height="585" frameX="-7" frameY="-9" frameWidth="501" frameHeight="594"/>
+	<SubTexture name="B ALT MAJIN LEFT0006" x="544" y="614" width="493" height="588" frameX="-8" frameY="-7" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT MAJIN LEFT0007" x="544" y="614" width="493" height="588" frameX="-8" frameY="-7" frameWidth="559" frameHeight="606"/>
+	<SubTexture name="B ALT MAJIN RIGHT0000" x="5344" y="2647" width="571" height="482" frameX="-4" frameY="-25" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0001" x="5344" y="2647" width="571" height="482" frameX="-4" frameY="-25" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0002" x="5920" y="2647" width="562" height="507" frameX="-2" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0003" x="5920" y="2647" width="562" height="507" frameX="-2" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0004" x="6487" y="2647" width="561" height="507" frameX="-1" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0005" x="6487" y="2647" width="561" height="507" frameX="-1" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0006" x="7053" y="2647" width="561" height="507" frameX="0" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN RIGHT0007" x="7053" y="2647" width="561" height="507" frameX="0" frameY="0" frameWidth="575" frameHeight="507"/>
+	<SubTexture name="B ALT MAJIN UP0000" x="7619" y="2647" width="542" height="572"/>
+	<SubTexture name="B ALT MAJIN UP0001" x="7619" y="2647" width="542" height="572"/>
+	<SubTexture name="B ALT MAJIN UP0002" x="5" y="3246" width="523" height="560" frameX="-16" frameY="-12" frameWidth="542" frameHeight="572"/>
+	<SubTexture name="B ALT MAJIN UP0003" x="5" y="3246" width="523" height="560" frameX="-16" frameY="-12" frameWidth="542" frameHeight="572"/>
+	<SubTexture name="B ALT MAJIN UP0004" x="533" y="3246" width="517" height="558" frameX="-21" frameY="-14" frameWidth="542" frameHeight="572"/>
+	<SubTexture name="B ALT MAJIN UP0005" x="533" y="3246" width="517" height="558" frameX="-21" frameY="-14" frameWidth="542" frameHeight="572"/>
+	<SubTexture name="B ALT MAJIN UP0006" x="3804" y="614" width="517" height="559" frameX="-22" frameY="-14" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="B ALT MAJIN UP0007" x="3804" y="614" width="517" height="559" frameX="-22" frameY="-14" frameWidth="607" frameHeight="614"/>
+	<SubTexture name="b alt glitch majin  right0000" x="1055" y="3246" width="571" height="485" frameX="-75" frameY="-25" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0001" x="1631" y="3246" width="578" height="485" frameX="-30" frameY="-25" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0002" x="2214" y="3246" width="597" height="510" frameX="-13" frameY="0" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0003" x="2816" y="3246" width="610" height="510" frameX="-38" frameY="0" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0004" x="3431" y="3246" width="642" height="515" frameX="0" frameY="0" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0005" x="3431" y="3246" width="642" height="515" frameX="0" frameY="0" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0006" x="4078" y="3246" width="561" height="507" frameX="-38" frameY="0" frameWidth="648" frameHeight="515"/>
+	<SubTexture name="b alt glitch majin  right0007" x="4078" y="3246" width="561" height="507" frameX="-38" frameY="0" frameWidth="648" frameHeight="515"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ExcitedMajin exc idle"
+		},
+		{
+			"offsets": [
+				2,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ExcitedMajin exc up"
+		},
+		{
+			"offsets": [
+				10,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ExcitedMajin exc down"
+		},
+		{
+			"offsets": [
+				-26,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ExcitedMajin exc left"
+		},
+		{
+			"offsets": [
+				14,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ExcitedMajin exc right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ChangeBack",
+			"loop": false,
+			"name": "ExcitedMajin justaprankbro"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ExcitedMajin",
+	"position": [
+		-310,
+		40
+	],
+	"healthicon": "icon-infinite",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		131
+	],
+	"camera_position": [
+		-180,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

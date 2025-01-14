@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MAJIN IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MAJIN LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MAJIN DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MAJIN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MAJIN RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				5
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "MAJIN SONIC GLITCH LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				26
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "MAJIN GLITCH DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				112
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "MAJIN GLITCH UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-113
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "MAJIN GLITCH RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				51
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "ALT SONIC DEATH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "chasquido",
+			"loop": false,
+			"name": "MAJIN MUGEMI MAGEKI"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAJIN_SONIC_ASSETS",
+	"position": [
+		0,
+		206
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		6,
+		114
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
