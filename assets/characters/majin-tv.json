@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MAJIN TV IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MAJIN TV LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MAJIN TV DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MAJIN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MAJIN TV RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-87,
+				-61
+			],
+			"anim": "final",
+			"fps": 24,
+			"name": "MAJIN TV FINAL",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-87,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transition",
+			"loop": true,
+			"name": "MAJIN TV TRANSITION "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MAJIN_TV",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		6,
+		114
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
