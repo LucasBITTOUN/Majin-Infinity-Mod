@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fleetway3.png">
+<SubTexture name="Laser0000" x="309" y="2263" width="266" height="355" frameX="-267" frameY="-232" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0001" x="309" y="2263" width="266" height="355" frameX="-267" frameY="-232" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0002" x="853" y="2263" width="267" height="336" frameX="-272" frameY="-234" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0003" x="853" y="2263" width="267" height="336" frameX="-272" frameY="-234" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0004" x="1378" y="2263" width="254" height="324" frameX="-301" frameY="-257" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0005" x="1378" y="2263" width="254" height="324" frameX="-301" frameY="-257" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0006" x="1120" y="2263" width="258" height="329" frameX="-317" frameY="-258" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0007" x="1120" y="2263" width="258" height="329" frameX="-317" frameY="-258" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0008" x="575" y="2263" width="278" height="338" frameX="-321" frameY="-255" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0009" x="575" y="2263" width="278" height="338" frameX="-321" frameY="-255" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0010" x="2309" y="1600" width="356" height="389" frameX="-176" frameY="-191" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0011" x="1903" y="1600" width="406" height="424" frameX="-126" frameY="-156" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0012" x="1402" y="1600" width="501" height="457" frameX="-126" frameY="-127" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0013" x="1557" y="0" width="1520" height="815" frameX="-57" frameY="-63" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0014" x="0" y="833" width="1488" height="767" frameX="-103" frameY="-101" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0015" x="0" y="0" width="1557" height="833" frameX="-30" frameY="-30" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0016" x="1488" y="833" width="1464" height="712" frameX="-126" frameY="-153" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0017" x="2665" y="1600" width="283" height="386" frameX="-127" frameY="-206" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0018" x="0" y="1600" width="1402" height="663" frameX="-166" frameY="-220" frameWidth="1602" frameHeight="898" />
+<SubTexture name="Laser0019" x="0" y="2263" width="309" height="374" frameX="-166" frameY="-220" frameWidth="1602" frameHeight="898" />
+</TextureAtlas>

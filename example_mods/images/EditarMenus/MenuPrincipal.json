@@ -1,0 +1,35 @@
+{
+	"optionShit":["story_mode","freeplay","options"],
+
+	"objetos":["Ejemplo"],
+
+	"controles":"normales",
+
+	"flicker":[true],
+
+	"items":[
+		[true,"centro","centro"],
+		[-100,0],
+		[0,140],
+		[-400,280],
+		[0,420],
+		[0,560],
+		[0,700],
+		[-480,840],
+		[-400,980]
+	],
+
+	"camara":[
+		[true],
+		[0,0],
+		[0,140],
+		[0,280],
+		[0,420],
+		[0,560],
+		[0,700],
+		[0,840],
+		[0,980]
+	],
+
+	"version":["Friday Infinite Funkin","0.5","www.youtube.com/channel/UCKlp4w6wL6Vc2XlafbrCqsw/featured",true]
+}

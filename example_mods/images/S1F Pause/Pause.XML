@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pause.png">
+
+	<SubTexture name="orb0000" x="0" y="0" width="133" height="160"/>
+	<SubTexture name="PAUSED0000" x="0" y="161" width="144" height="25"/>
+	<SubTexture name="bottom0000" x="145" y="161" width="8" height="8"/>
+	<SubTexture name="top0000" x="154" y="161" width="8" height="8"/>
+	<SubTexture name="chain0000" x="218" y="144" width="60" height="6"/>
+	<SubTexture name="00000" x="189" y="132" width="8" height="11"/>
+	<SubTexture name="10000" x="198" y="132" width="8" height="11"/>
+	<SubTexture name="20000" x="207" y="132" width="8" height="11"/>
+	<SubTexture name="30000" x="216" y="132" width="8" height="11"/>
+	<SubTexture name="40000" x="225" y="132" width="8" height="11"/>
+	<SubTexture name="50000" x="234" y="132" width="8" height="11"/>
+	<SubTexture name="60000" x="243" y="132" width="8" height="11"/>
+	<SubTexture name="70000" x="252" y="132" width="8" height="11"/>
+	<SubTexture name="80000" x="261" y="132" width="8" height="11"/>
+	<SubTexture name="90000" x="270" y="132" width="8" height="11"/>
+	<SubTexture name="Resume0000" x="134" y="94" width="96" height="18"/>
+	<SubTexture name="ResumeSelected0000" x="134" y="0" width="96" height="18"/>
+	<SubTexture name="Restart0000" x="134" y="113" width="111" height="18"/>
+	<SubTexture name="RestartSelected0000" x="134" y="19" width="111" height="18"/>
+	<SubTexture name="Exit0000" x="134" y="132" width="54" height="18"/>
+	<SubTexture name="ExitSelected0000" x="134" y="38" width="54" height="18"/>
+	<SubTexture name="Pointer0000" x="134" y="57" width="18" height="18"/>
+	<SubTexture name="Open0000" x="134" y="77" width="7" height="14"/>
+	<SubTexture name="Mid0000" x="142" y="77" width="3" height="18"/>
+	<SubTexture name="Closed0000" x="146" y="77" width="7" height="14"/>
+	<SubTexture name="Empty0000" x="161" y="78" width="3" height="12"/>
+</TextureAtlas>

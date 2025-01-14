@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FleetwayBGshit.png">
+	
+	
+	<SubTexture name="BGblue0000" x="0" y="0" width="2924" height="1456" />
+	<SubTexture name="BGyellow0000" x="0" y="1456" width="2924" height="1456" />
+</TextureAtlas>

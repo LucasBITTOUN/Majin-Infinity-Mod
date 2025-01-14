@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="majinogx.png">
+<SubTexture name="majinogx neutral0000" x="0" y="0" width="122" height="107" frameX="-15" frameY="-20" frameWidth="154" frameHeight="150" />
+<SubTexture name="majinogx lose0000" x="122" y="0" width="125" height="98" frameX="-14" frameY="-22" frameWidth="154" frameHeight="150" />
+</TextureAtlas>

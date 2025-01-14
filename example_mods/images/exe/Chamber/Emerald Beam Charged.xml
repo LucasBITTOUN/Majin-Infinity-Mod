@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Emerald Beam Charged.png">
+	
+	
+	<SubTexture name="Emerald Beam Charged instance 10000" x="0" y="0" width="473" height="669" frameX="-36" frameY="-30" frameWidth="545" frameHeight="729" />
+	<SubTexture name="Emerald Beam Charged instance 10001" x="473" y="0" width="509" height="699" frameX="-18" frameY="-15" frameWidth="545" frameHeight="729" />
+	<SubTexture name="Emerald Beam Charged instance 10002" x="983" y="0" width="545" height="729" />
+</TextureAtlas>

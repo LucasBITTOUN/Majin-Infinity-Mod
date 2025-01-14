@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-lord-x.png">
+
+	<SubTexture name="iconGood0000" x="0" y="0" width="160" height="150" frameX="0" frameY="0" frameWidth="160" frameHeight="150"/>
+	<SubTexture name="iconBad0000" x="160" y="0" width="160" height="150" frameX="0" frameY="0" frameWidth="160" frameHeight="150"/>
+</TextureAtlas>

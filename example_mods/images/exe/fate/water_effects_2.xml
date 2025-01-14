@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="water effects 2.png">
+<SubTexture name="water effects 2 idle0000" x="0" y="0" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0001" x="0" y="0" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0002" x="0" y="270" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0003" x="0" y="270" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0004" x="0" y="540" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0005" x="0" y="540" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0006" x="0" y="810" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0007" x="0" y="810" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0008" x="0" y="810" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0009" x="0" y="810" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+<SubTexture name="water effects 2 idle0010" x="0" y="810" width="355" height="270" frameX="-851" frameY="-348" frameWidth="1205" frameHeight="870" />
+</TextureAtlas>

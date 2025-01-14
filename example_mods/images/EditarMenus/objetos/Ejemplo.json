@@ -1,0 +1,23 @@
+{	
+	"objeto":["imagen","Ejemplo"],
+
+	"posicion": [0,0],
+
+	"escala":[1,1],
+
+	"alpha": 1 ,
+
+	"angulo": 0 ,
+
+	"scrollFactor":[0,0],
+
+	"tween":
+	[
+
+	],
+
+	"vinculos":
+	[
+	
+	]
+}

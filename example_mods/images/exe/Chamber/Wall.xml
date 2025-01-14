@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Wall.png">
+	
+	
+	<SubTexture name="Wall Broken instance 10000" x="0" y="0" width="1420" height="633" />
+	<SubTexture name="Wall instance 10000" x="0" y="633" width="1420" height="633" />
+</TextureAtlas>

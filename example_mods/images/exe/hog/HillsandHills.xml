@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HillsandHills.png">
+<SubTexture name="HillsandHills0000" x="0" y="0" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0001" x="0" y="349" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0002" x="1040" y="0" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0003" x="0" y="349" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0004" x="0" y="0" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0005" x="0" y="349" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0006" x="1040" y="0" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+<SubTexture name="HillsandHills0007" x="0" y="349" width="1040" height="349" frameX="0" frameY="0" frameWidth="1040" frameHeight="349" />
+</TextureAtlas>

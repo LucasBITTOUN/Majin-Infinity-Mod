@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pebles.png">
+	
+	
+	<SubTexture name="pebles instance 10000" x="0" y="0" width="1522" height="122" />
+	<SubTexture name="pebles instance 20000" x="0" y="122" width="1522" height="121" />
+</TextureAtlas>
