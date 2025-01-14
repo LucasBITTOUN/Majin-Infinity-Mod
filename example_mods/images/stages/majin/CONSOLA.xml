@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CONSOLA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="consola0000" x="5" y="5" width="311" height="310" frameX="0" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0001" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0002" x="633" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0003" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0004" x="945" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0005" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0006" x="1257" y="5" width="307" height="326" frameX="-4" frameY="-34" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0007" x="1569" y="5" width="307" height="318" frameX="-4" frameY="-42" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0008" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0009" x="5" y="336" width="307" height="343" frameX="-4" frameY="-17" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0010" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0011" x="317" y="336" width="307" height="360" frameX="-4" frameY="0" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0012" x="629" y="336" width="307" height="357" frameX="-4" frameY="-3" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0013" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0014" x="941" y="336" width="307" height="339" frameX="-4" frameY="-21" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0015" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0016" x="1253" y="336" width="307" height="316" frameX="-4" frameY="-44" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0017" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0018" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0019" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0020" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0021" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0022" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0023" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0024" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0025" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0026" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0027" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0028" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0029" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0030" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0031" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0032" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0033" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0034" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0035" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0036" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0037" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0038" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0039" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0040" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0041" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0042" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0043" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0044" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0045" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0046" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0047" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0048" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0049" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0050" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0051" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0052" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0053" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0054" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0055" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0056" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0057" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0058" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+	<SubTexture name="consola0059" x="321" y="5" width="307" height="310" frameX="-4" frameY="-50" frameWidth="311" frameHeight="360"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WatherFall.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WatherFALL0000" x="0" y="0" width="2336" height="1689" frameX="0" frameY="-13" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0001" x="0" y="0" width="2336" height="1689" frameX="0" frameY="-13" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0002" x="2336" y="0" width="2336" height="1700" frameX="0" frameY="-2" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0003" x="2336" y="0" width="2336" height="1700" frameX="0" frameY="-2" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0004" x="4672" y="0" width="2336" height="1701" frameX="0" frameY="-1" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0005" x="4672" y="0" width="2336" height="1701" frameX="0" frameY="-1" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0006" x="0" y="1701" width="2336" height="1692" frameX="0" frameY="-10" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0007" x="0" y="1701" width="2336" height="1692" frameX="0" frameY="-10" frameWidth="2345" frameHeight="1715"/>
+	<SubTexture name="WatherFALL0008" x="2336" y="1701" width="2345" height="1715"/>
+	<SubTexture name="WatherFALL0009" x="2336" y="1701" width="2345" height="1715"/>
+</TextureAtlas>

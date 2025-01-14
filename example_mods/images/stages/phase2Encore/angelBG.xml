@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AngelBG.png">
+<SubTexture name="AngelBG Run0000" x="0" y="0" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0001" x="0" y="285" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0002" x="635" y="0" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0003" x="635" y="285" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0004" x="0" y="570" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0005" x="635" y="570" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0006" x="0" y="855" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+<SubTexture name="AngelBG Run0007" x="635" y="855" width="635" height="285" frameX="0" frameY="0" frameWidth="635" frameHeight="285" />
+</TextureAtlas>

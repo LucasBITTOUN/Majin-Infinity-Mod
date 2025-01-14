@@ -1,0 +1,31 @@
+{
+	"storyName": "SoundTest",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard",
+	"weekBefore": "freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+            "Sound Test",
+		  "majin",
+			[
+			   0,
+		        0,
+		        0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week ???"
+}

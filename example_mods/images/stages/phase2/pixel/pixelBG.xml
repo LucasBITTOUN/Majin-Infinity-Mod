@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HillBG.png">
+<SubTexture name="HillBG Idle0000" x="0" y="0" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0001" x="0" y="192" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0002" x="512" y="0" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0003" x="512" y="192" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0004" x="0" y="384" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0005" x="512" y="384" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0006" x="0" y="576" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0007" x="512" y="576" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0008" x="0" y="768" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0009" x="512" y="768" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0010" x="1024" y="0" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0011" x="1024" y="192" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0012" x="1024" y="384" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0013" x="1024" y="576" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0014" x="1024" y="768" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0015" x="0" y="960" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0016" x="512" y="960" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0017" x="1024" y="960" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0018" x="0" y="1152" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+<SubTexture name="HillBG Idle0019" x="512" y="1152" width="512" height="192" frameX="0" frameY="0" frameWidth="512" frameHeight="192" />
+</TextureAtlas>

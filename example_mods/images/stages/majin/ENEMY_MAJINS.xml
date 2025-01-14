@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ENEMY MAJINS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENEMY MAJIN0000" x="5" y="5" width="191" height="196" frameX="0" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0001" x="201" y="5" width="191" height="196" frameX="-444" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0002" x="5" y="5" width="191" height="196" frameX="-647" frameY="-558" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0003" x="397" y="5" width="414" height="334" frameX="-719" frameY="-291" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0004" x="816" y="5" width="442" height="617" frameX="-864" frameY="-55" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0005" x="1263" y="5" width="433" height="591" frameX="-957" frameY="-63" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0006" x="1701" y="5" width="427" height="512" frameX="-998" frameY="-111" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0007" x="1701" y="5" width="427" height="512" frameX="-998" frameY="-111" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0008" x="2133" y="5" width="372" height="553" frameX="-1146" frameY="-141" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0009" x="2133" y="5" width="372" height="553" frameX="-1146" frameY="-141" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0010" x="2510" y="5" width="359" height="607" frameX="-1115" frameY="-115" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0011" x="2874" y="5" width="387" height="640" frameX="-1115" frameY="-115" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0012" x="3266" y="5" width="449" height="765" frameX="-1053" frameY="-57" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0013" x="5" y="775" width="483" height="887" frameX="-1023" frameY="-38" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0014" x="493" y="775" width="549" height="937" frameX="-1023" frameY="-38" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0015" x="1047" y="775" width="548" height="958" frameX="-1024" frameY="-36" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0016" x="1600" y="775" width="573" height="958" frameX="-1024" frameY="-36" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0017" x="2178" y="775" width="599" height="963" frameX="-998" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0018" x="2782" y="775" width="637" height="963" frameX="-998" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0019" x="3424" y="775" width="662" height="954" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0020" x="5" y="1743" width="630" height="954" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0021" x="640" y="1743" width="613" height="955" frameX="-990" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0022" x="1258" y="1743" width="647" height="955" frameX="-990" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0023" x="1910" y="1743" width="666" height="957" frameX="-971" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0024" x="2581" y="1743" width="662" height="957" frameX="-971" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0025" x="3248" y="1743" width="660" height="963" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0026" x="5" y="2711" width="661" height="963" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0027" x="671" y="2711" width="661" height="954" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0028" x="5" y="1743" width="630" height="954" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0029" x="640" y="1743" width="613" height="955" frameX="-990" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0030" x="1258" y="1743" width="647" height="955" frameX="-990" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0031" x="1337" y="2711" width="633" height="957" frameX="-973" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0032" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0033" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0034" x="1980" y="2711" width="643" height="963" frameX="-990" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0035" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0036" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0037" x="2628" y="2711" width="664" height="954" frameX="-971" frameY="-37" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0038" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0039" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0040" x="3297" y="2711" width="665" height="992" frameX="-973" frameY="0" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0041" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0042" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0043" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0044" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+	<SubTexture name="ENEMY MAJIN0045" x="1975" y="2711" width="0" height="0" frameX="-606" frameY="-759" frameWidth="1638" frameHeight="1000"/>
+</TextureAtlas>

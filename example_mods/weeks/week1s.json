@@ -1,0 +1,49 @@
+{
+	"storyName": "VS Majin Sonic",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chaos",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Endless",
+			"majin",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Endeavors",
+			"majinus",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Chaotic Endeavors",
+			"chaos",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Vs Majin Sonic"
+}

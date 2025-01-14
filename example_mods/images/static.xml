@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="staticCurse.png">
+	
+	
+	<SubTexture name="menuSTATICNEW instance 10000" x="0" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10001" x="320" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10002" x="640" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10003" x="960" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10004" x="1280" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10005" x="1600" y="0" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10006" x="0" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10007" x="320" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10008" x="640" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10009" x="960" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10010" x="1280" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10011" x="1600" y="180" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10012" x="0" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10013" x="320" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10014" x="640" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10015" x="960" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10016" x="1280" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10017" x="1600" y="360" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10018" x="0" y="540" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10019" x="320" y="540" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10020" x="640" y="540" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10021" x="960" y="540" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10022" x="1280" y="540" width="320" height="180" />
+	<SubTexture name="menuSTATICNEW instance 10023" x="1600" y="540" width="320" height="180" />
+</TextureAtlas>

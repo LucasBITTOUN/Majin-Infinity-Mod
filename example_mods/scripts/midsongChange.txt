@@ -1,0 +1,128 @@
+------Character change midsong------
+
+1- Move the "Play As Opponent.lua" script to a custom_events folder (for example: "mods/YOURMOD/custom_events") [create that folder if it doesn't exist]
+2- Make a new lua file (with any name) at any script folder (global or in a song) or use any other script/event and add this to it:
+
+function onBeatHit()
+	
+	--this will enable opponent play when the beat is the 20th beat of the song
+	if curBeat == 20 then
+		removeLuaScript("custom_events/Play As Opponent")
+		addLuaScript("custom_events/Play As Opponent")
+	end
+	
+	--this will disable the opponent play
+	if curBeat == 50 then
+		removeLuaScript("custom_events/Play As Opponent")
+		
+		--if you missed the colors should be back to normal
+		setProperty('dad.colorTransform.redMultiplier', 1)
+		setProperty('dad.colorTransform.greenMultiplier', 1)
+		setProperty('dad.colorTransform.blueMultiplier', 1)
+
+		--for notes that were changed for the script to work
+		for i = 0, getProperty('notes.length')-1 do
+		
+			if not (getPropertyFromGroup('notes', i, 'rating') == 'ignore') then
+				setPropertyFromGroup('notes', i, 'ignoreNote', false)
+			end
+			
+		end
+		
+		--this is to add the input back 
+		runHaxeCode([[
+			game.keysArray = [
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_left')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_down')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_up')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_right'))
+			];
+			game.controlArray = [
+				'NOTE_LEFT',
+				'NOTE_DOWN',
+				'NOTE_UP',
+				'NOTE_RIGHT'
+			];
+		]])
+	end
+	
+end
+
+(obviously change 20 and 50 with any number you want and change the script howewer you want for your mod, and maybe add a warning or something as well)
+
+3- Should be good to go! Now when you go to the song and you wait a bit it should change you to the opponent and then turn you back to boyfriend
+
+
+
+
+
+------Character change with custom difficulty------
+
+1- Move the "Play As Opponent.lua" script to a custom_events folder (for example: "mods/YOURMOD/custom_events") [create that folder if it doesn't exist]
+2- Make a new lua file (with any name) at any script folder (global or in a song) or use any other script/event and add this to it:
+
+function onCreate()
+	
+	if difficultyName:lower() == 'NAMEHERE' then
+		addLuaScript("custom_events/Play As Opponent")
+	end
+	
+end
+
+(change NAMEHERE with the difficulty you want to only have opponent play, in lowercase)
+
+3- Done! When you go to the song and with the difficulty you've chosen you should be playing as the opponent
+
+
+
+
+
+------Character change with keys------
+
+1- Move the "Play As Opponent.lua" script to a custom_events folder (for example: "mods/YOURMOD/custom_events") [create that folder if it doesn't exist]
+2- Make a new lua file (with any name) at any script folder (global or in a song) or use any other script/event and add this to it:
+
+function onUpdate()
+	
+	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.Q') then
+		removeLuaScript("custom_events/Play As Opponent")
+		addLuaScript("custom_events/Play As Opponent")
+	end
+	
+	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.E') then
+		removeLuaScript("custom_events/Play As Opponent")
+		
+		--if you missed the colors should be back to normal
+		setProperty('dad.colorTransform.redMultiplier', 1)
+		setProperty('dad.colorTransform.greenMultiplier', 1)
+		setProperty('dad.colorTransform.blueMultiplier', 1)
+
+		--for notes that were changed for the script to work
+		for i = 0, getProperty('notes.length')-1 do
+		
+			if not (getPropertyFromGroup('notes', i, 'rating') == 'ignore') then
+				setPropertyFromGroup('notes', i, 'ignoreNote', false)
+			end
+			
+		end
+		
+		--this is to add the input back 
+		runHaxeCode([[
+			game.keysArray = [
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_left')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_down')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_up')),
+				ClientPrefs.copyKey(ClientPrefs.keyBinds.get('note_right'))
+			];
+			game.controlArray = [
+				'NOTE_LEFT',
+				'NOTE_DOWN',
+				'NOTE_UP',
+				'NOTE_RIGHT'
+			];
+		]])
+	end
+	
+end
+
+3- Should be good to go! Now go to any song and press the Q and E keys to change between opponent and boyfriend (Q is opponent, E is boyfriend)

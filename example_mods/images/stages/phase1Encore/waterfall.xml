@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cascadainsana.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cascadainsana0000" x="0" y="0" width="358" height="289"/>
+	<SubTexture name="cascadainsana0001" x="358" y="0" width="326" height="264" frameX="-18" frameY="-6" frameWidth="358" frameHeight="289"/>
+</TextureAtlas>

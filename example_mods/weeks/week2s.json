@@ -1,0 +1,59 @@
+{
+	"storyName": "old majin song",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "chaos",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "???",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Infinite",
+			"infinite",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Endless Encore",
+			"infinite",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Endeavours",
+			"majinog",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"The Infinite Lament",
+			"b-alt-majin",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Chaotic Endeavors Old",
+	"hiddenUntilUnlocked": false
+}

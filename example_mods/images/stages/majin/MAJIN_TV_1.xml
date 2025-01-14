@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MAJIN TV 1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MAJIN TV 10000" x="5" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10001" x="5" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10002" x="890" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10003" x="890" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10004" x="1775" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10005" x="1775" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10006" x="2660" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10007" x="2660" y="5" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10008" x="5" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10009" x="5" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10010" x="890" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10011" x="890" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10012" x="890" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10013" x="890" y="972" width="880" height="962"/>
+	<SubTexture name="MAJIN TV 10014" x="890" y="972" width="880" height="962"/>
+</TextureAtlas>
