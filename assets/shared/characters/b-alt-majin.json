@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " B ALT MAJIN IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "B ALT MAJIN LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "B ALT MAJIN DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "B ALT MAJIN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B ALT MAJIN RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "B ALT GLITCH MAJIN DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				34
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "B ALT GLITCH MAJIN LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				52
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "B ALT GLITCH MAJIN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-52
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "b alt glitch majin  right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				95
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "B ALT MAJIN DEATH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				648,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "B ALT MAJIN INTRO",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B_ALT_MAJIN_SONIC_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "b-alt-majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		204
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

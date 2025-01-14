@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MAJIN SONIC ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ALT SONIC DEATH0000" x="5" y="5" width="439" height="554" frameX="-169" frameY="-108" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0001" x="449" y="5" width="399" height="562" frameX="-169" frameY="-100" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0002" x="853" y="5" width="394" height="596" frameX="-134" frameY="-63" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0003" x="1252" y="5" width="459" height="629" frameX="-66" frameY="-30" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0004" x="1716" y="5" width="572" height="659" frameX="-27" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0005" x="2293" y="5" width="551" height="675" frameX="-48" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0006" x="2849" y="5" width="576" height="675" frameX="-48" frameY="0" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0007" x="3430" y="5" width="598" height="678" frameX="-26" frameY="-3" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0008" x="4033" y="5" width="636" height="678" frameX="-26" frameY="-3" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0009" x="4674" y="5" width="661" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0010" x="5340" y="5" width="629" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0011" x="5974" y="5" width="612" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0012" x="6591" y="5" width="646" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0013" x="7242" y="5" width="664" height="671" frameX="0" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0014" x="5" y="688" width="661" height="671" frameX="0" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0015" x="671" y="688" width="660" height="677" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0016" x="1336" y="688" width="660" height="677" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0017" x="2001" y="688" width="660" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0018" x="5340" y="5" width="629" height="669" frameX="-1" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0019" x="5974" y="5" width="612" height="670" frameX="-18" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0020" x="2666" y="688" width="646" height="124" frameX="-18" frameY="-550" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0021" x="3317" y="688" width="632" height="132" frameX="-1" frameY="-543" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0022" x="3954" y="688" width="455" height="659" frameX="-50" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0023" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0024" x="4419" y="688" width="643" height="133" frameX="-18" frameY="-548" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0025" x="5067" y="688" width="455" height="659" frameX="-50" frameY="-4" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0026" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0027" x="5527" y="688" width="662" height="126" frameX="0" frameY="-547" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0028" x="6194" y="688" width="499" height="665" frameX="-28" frameY="-1" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0029" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0030" x="6698" y="688" width="664" height="130" frameX="-1" frameY="-544" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0031" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0032" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0033" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0034" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0035" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0036" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0037" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0038" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0039" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0040" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0041" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0042" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0043" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0044" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="ALT SONIC DEATH0045" x="4414" y="688" width="0" height="0" frameX="-516" frameY="-512" frameWidth="665" frameHeight="681"/>
+	<SubTexture name="MAJIN DOWN0000" x="7367" y="688" width="558" height="592" frameX="-11" frameY="-19" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0001" x="7367" y="688" width="558" height="592" frameX="-11" frameY="-19" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0002" x="5" y="1370" width="564" height="608" frameX="-4" frameY="-4" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0003" x="5" y="1370" width="564" height="608" frameX="-4" frameY="-4" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0004" x="574" y="1370" width="566" height="610" frameX="-1" frameY="-2" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0005" x="574" y="1370" width="566" height="610" frameX="-1" frameY="-2" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0006" x="1145" y="1370" width="567" height="612" frameX="0" frameY="0" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN DOWN0007" x="1145" y="1370" width="567" height="612" frameX="0" frameY="0" frameWidth="569" frameHeight="612"/>
+	<SubTexture name="MAJIN GLITCH DOWN0000" x="1717" y="1370" width="576" height="553" frameX="-18" frameY="-94" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0001" x="2298" y="1370" width="557" height="595" frameX="-42" frameY="-51" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0002" x="2860" y="1370" width="572" height="646" frameX="0" frameY="0" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0003" x="3437" y="1370" width="567" height="618" frameX="-28" frameY="-51" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0004" x="4009" y="1370" width="568" height="626" frameX="-13" frameY="-20" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0005" x="4009" y="1370" width="568" height="626" frameX="-13" frameY="-20" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0006" x="4582" y="1370" width="567" height="612" frameX="-14" frameY="-32" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH DOWN0007" x="4582" y="1370" width="567" height="612" frameX="-14" frameY="-32" frameWidth="599" frameHeight="669"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0000" x="5154" y="1370" width="465" height="462" frameX="-58" frameY="-31" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0001" x="5624" y="1370" width="467" height="457" frameX="-35" frameY="-36" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0002" x="6096" y="1370" width="477" height="492" frameX="-46" frameY="0" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0003" x="6578" y="1370" width="486" height="492" frameX="0" frameY="0" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0004" x="7069" y="1370" width="494" height="489" frameX="-28" frameY="-7" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0005" x="7069" y="1370" width="494" height="489" frameX="-28" frameY="-7" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0006" x="7568" y="1370" width="436" height="478" frameX="-41" frameY="-11" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH RIGHT0007" x="7568" y="1370" width="436" height="478" frameX="-41" frameY="-11" frameWidth="523" frameHeight="496"/>
+	<SubTexture name="MAJIN GLITCH UP0000" x="5" y="2021" width="472" height="716" frameX="-21" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0001" x="482" y="2021" width="476" height="713" frameX="-2" frameY="-3" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0002" x="963" y="2021" width="476" height="712" frameX="0" frameY="-3" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0003" x="1444" y="2021" width="468" height="713" frameX="-56" frameY="-3" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0004" x="1917" y="2021" width="524" height="719" frameX="-8" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0005" x="1917" y="2021" width="524" height="719" frameX="-8" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0006" x="2446" y="2021" width="436" height="711" frameX="-32" frameY="-2" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0007" x="2446" y="2021" width="436" height="711" frameX="-32" frameY="-2" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0008" x="2887" y="2021" width="435" height="711" frameX="-32" frameY="-2" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN GLITCH UP0009" x="2887" y="2021" width="435" height="711" frameX="-32" frameY="-2" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN IDLE0000" x="3327" y="2021" width="520" height="558" frameX="-12" frameY="-42" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0001" x="3327" y="2021" width="520" height="558" frameX="-12" frameY="-42" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0002" x="3852" y="2021" width="523" height="566" frameX="-9" frameY="-34" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0003" x="3852" y="2021" width="523" height="566" frameX="-9" frameY="-34" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0004" x="4380" y="2021" width="521" height="583" frameX="-8" frameY="-17" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0005" x="4906" y="2021" width="514" height="591" frameX="-4" frameY="-9" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0006" x="5425" y="2021" width="511" height="594" frameX="-1" frameY="-6" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0007" x="5425" y="2021" width="511" height="594" frameX="-1" frameY="-6" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0008" x="5941" y="2021" width="505" height="596" frameX="-1" frameY="-4" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0009" x="5941" y="2021" width="505" height="596" frameX="-1" frameY="-4" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0010" x="6451" y="2021" width="502" height="598" frameX="-1" frameY="-2" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0011" x="6451" y="2021" width="502" height="598" frameX="-1" frameY="-2" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0012" x="6958" y="2021" width="502" height="600" frameX="0" frameY="0" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0013" x="6958" y="2021" width="502" height="600" frameX="0" frameY="0" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0014" x="7465" y="2021" width="501" height="599" frameX="-1" frameY="-1" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0015" x="7465" y="2021" width="501" height="599" frameX="-1" frameY="-1" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0016" x="5" y="2745" width="501" height="592" frameX="0" frameY="-8" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0017" x="5" y="2745" width="501" height="592" frameX="0" frameY="-8" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0018" x="511" y="2745" width="498" height="581" frameX="-4" frameY="-19" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0019" x="511" y="2745" width="498" height="581" frameX="-4" frameY="-19" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0020" x="1014" y="2745" width="492" height="568" frameX="-13" frameY="-32" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0021" x="1014" y="2745" width="492" height="568" frameX="-13" frameY="-32" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0022" x="1511" y="2745" width="501" height="560" frameX="-13" frameY="-40" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0023" x="1511" y="2745" width="501" height="560" frameX="-13" frameY="-40" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0024" x="2017" y="2745" width="510" height="557" frameX="-13" frameY="-43" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0025" x="2017" y="2745" width="510" height="557" frameX="-13" frameY="-43" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0026" x="2532" y="2745" width="514" height="556" frameX="-13" frameY="-44" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0027" x="2532" y="2745" width="514" height="556" frameX="-13" frameY="-44" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0028" x="3051" y="2745" width="516" height="556" frameX="-13" frameY="-44" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN IDLE0029" x="3051" y="2745" width="516" height="556" frameX="-13" frameY="-44" frameWidth="532" frameHeight="600"/>
+	<SubTexture name="MAJIN LEFT0000" x="3572" y="2745" width="484" height="603" frameX="0" frameY="-1" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0001" x="3572" y="2745" width="484" height="603" frameX="0" frameY="-1" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0002" x="4061" y="2745" width="498" height="604" frameX="-19" frameY="0" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0003" x="4061" y="2745" width="498" height="604" frameX="-19" frameY="0" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0004" x="4564" y="2745" width="504" height="601" frameX="-21" frameY="-3" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0005" x="4564" y="2745" width="504" height="601" frameX="-21" frameY="-3" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0006" x="5073" y="2745" width="505" height="599" frameX="-20" frameY="-5" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN LEFT0007" x="5073" y="2745" width="505" height="599" frameX="-20" frameY="-5" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0000" x="5583" y="2745" width="372" height="578" frameX="-231" frameY="-116" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0001" x="5960" y="2745" width="447" height="597" frameX="-142" frameY="-97" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0002" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0003" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0004" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0005" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0006" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0007" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0008" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0009" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0010" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0011" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0012" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0013" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0014" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0015" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0016" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0017" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0018" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0019" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0020" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0021" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0022" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0023" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0024" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0025" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0026" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0027" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0028" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0029" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0030" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0031" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0032" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0033" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0034" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0035" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0036" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0037" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0038" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0039" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0040" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0041" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0042" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0043" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0044" x="6412" y="2745" width="508" height="563" frameX="-30" frameY="-131" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0045" x="6925" y="2745" width="499" height="573" frameX="-49" frameY="-121" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0046" x="7429" y="2745" width="498" height="574" frameX="-53" frameY="-120" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0047" x="5" y="3354" width="485" height="581" frameX="-50" frameY="-113" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0048" x="5" y="3354" width="485" height="581" frameX="-50" frameY="-113" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0049" x="495" y="3354" width="427" height="673" frameX="-118" frameY="-21" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0050" x="495" y="3354" width="427" height="673" frameX="-118" frameY="-21" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0051" x="927" y="3354" width="426" height="654" frameX="-81" frameY="-40" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0052" x="1358" y="3354" width="426" height="654" frameX="-81" frameY="-40" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0053" x="1789" y="3354" width="425" height="654" frameX="-87" frameY="-40" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0054" x="1789" y="3354" width="425" height="654" frameX="-87" frameY="-40" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0055" x="2219" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0056" x="2219" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0057" x="2648" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0058" x="2648" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0059" x="3077" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0060" x="3077" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0061" x="3506" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0062" x="3506" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0063" x="3935" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0064" x="3935" y="3354" width="424" height="657" frameX="-88" frameY="-37" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0065" x="4364" y="3354" width="410" height="655" frameX="-94" frameY="-39" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0066" x="4779" y="3354" width="378" height="694" frameX="-109" frameY="0" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0067" x="4779" y="3354" width="378" height="694" frameX="-109" frameY="0" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0068" x="5162" y="3354" width="470" height="692" frameX="-15" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0069" x="5637" y="3354" width="485" height="692" frameX="0" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0070" x="6127" y="3354" width="484" height="692" frameX="0" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0071" x="6616" y="3354" width="404" height="692" frameX="-80" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0072" x="6616" y="3354" width="404" height="692" frameX="-80" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0073" x="7025" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0074" x="7025" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0075" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0076" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0077" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0078" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0079" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0080" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0081" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0082" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0083" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN MUGEMI MAGEKI0084" x="7433" y="3354" width="403" height="692" frameX="-81" frameY="-2" frameWidth="603" frameHeight="694"/>
+	<SubTexture name="MAJIN RIGHT0000" x="5" y="4053" width="456" height="458" frameX="-12" frameY="-31" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0001" x="5" y="4053" width="456" height="458" frameX="-12" frameY="-31" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0002" x="466" y="4053" width="445" height="489" frameX="-1" frameY="0" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0003" x="466" y="4053" width="445" height="489" frameX="-1" frameY="0" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0004" x="916" y="4053" width="438" height="481" frameX="0" frameY="-8" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0005" x="916" y="4053" width="438" height="481" frameX="0" frameY="-8" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0006" x="1359" y="4053" width="436" height="478" frameX="0" frameY="-11" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN RIGHT0007" x="1359" y="4053" width="436" height="478" frameX="0" frameY="-11" frameWidth="468" frameHeight="489"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0000" x="1800" y="4053" width="482" height="606" frameX="0" frameY="-3" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0001" x="2287" y="4053" width="499" height="606" frameX="-35" frameY="-3" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0002" x="2791" y="4053" width="501" height="607" frameX="-26" frameY="-2" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0003" x="3297" y="4053" width="530" height="607" frameX="-2" frameY="-2" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0004" x="3832" y="4053" width="528" height="612" frameX="-13" frameY="0" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0005" x="3832" y="4053" width="528" height="612" frameX="-13" frameY="0" frameWidth="541" frameHeight="612"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0006" x="5073" y="2745" width="505" height="599" frameX="-32" frameY="-7" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN SONIC GLITCH LEFT0007" x="5073" y="2745" width="505" height="599" frameX="-32" frameY="-7" frameWidth="525" frameHeight="604"/>
+	<SubTexture name="MAJIN UP0000" x="4365" y="4053" width="469" height="709" frameX="0" frameY="-1" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0001" x="4365" y="4053" width="469" height="709" frameX="0" frameY="-1" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0002" x="4839" y="4053" width="453" height="708" frameX="-10" frameY="-2" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0003" x="4839" y="4053" width="453" height="708" frameX="-10" frameY="-2" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0004" x="5297" y="4053" width="441" height="710" frameX="-11" frameY="0" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0005" x="5297" y="4053" width="441" height="710" frameX="-11" frameY="0" frameWidth="469" frameHeight="710"/>
+	<SubTexture name="MAJIN UP0006" x="2446" y="2021" width="436" height="711" frameX="-11" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN UP0007" x="2446" y="2021" width="436" height="711" frameX="-11" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN UP0008" x="2887" y="2021" width="435" height="711" frameX="-11" frameY="0" frameWidth="532" frameHeight="719"/>
+	<SubTexture name="MAJIN UP0009" x="2887" y="2021" width="435" height="711" frameX="-11" frameY="0" frameWidth="532" frameHeight="719"/>
+</TextureAtlas>

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ALT MAJIN IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ALT MAJIN LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ALT MAJIN DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ALT MAJIN UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ALT MAJIN RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				-55
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT MAJIN GLITCH LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-34
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ALT MAJIN GLITCH DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-28
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT MAJIN GLITCH UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-48
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ALT MAJIN GLITCH RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-12
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "ALT SONIC DEATH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				597,
+				1
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "ALT MAJIN INTRO",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ALT_MAJIN_SONIC_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "alt-majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		43,
+		172
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
